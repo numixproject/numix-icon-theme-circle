@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
  <defs>
   <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-   <stop style="stop-color:#a88d5e;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#af966b;stop-opacity:1"/>
+   <stop style="stop-color:#a58855;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#ad9261;stop-opacity:1"/>
   </linearGradient>
  </defs>
  <g>
@@ -18,18 +18,24 @@
    <g transform="translate(1,1)">
     <g style="opacity:0.1">
      <!-- color: #af966b -->
-     <g>
-      <path d="m 23.887 12 c -3.531 3.988 -5.762 7.855 -5.336 11.488 c 0.094 5.297 2.555 7.457 5.03 9.594 l 0.344 2.727 l 0.609 0.191 l 0.113 -2.766 c 2.105 -2.195 4.66 -3.426 4.84 -9.746 c 0.164 -3.16 -1.656 -7.184 -4.703 -9.93 c -0.574 -0.52 -0.582 -0.961 -0.898 -1.559 m 0 0" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-     </g>
     </g>
    </g>
   </g>
  </g>
- <g>
+ <g transform="translate(1,2)" style="fill:#000;opacity:0.1">
+  <g style="fill:#000">
+   <!-- color: #af966b -->
+   <g style="fill:#000">
+    <path d="m 24 10 c -3.531 3.988 -6 6.9 -6 12 0 5.5 3.525 8.863 6 11 l 0 2.199 1 0.801 0 -3 c 2.105 -2.195 5 -4.5 5 -11 0 -4 -3 -7 -5 -10 -0.413 -0.62 -1 -2 -1 -2 z" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0,1)">
   <g>
    <!-- color: #af966b -->
    <g>
-    <path d="m 23.887 12 c -3.531 3.988 -5.762 7.855 -5.336 11.488 c 0.094 5.297 2.555 7.457 5.03 9.594 l 0.344 2.727 l 0.609 0.191 l 0.113 -2.766 c 2.105 -2.195 4.66 -3.426 4.84 -9.746 c 0.164 -3.16 -1.656 -7.184 -4.703 -9.93 c -0.574 -0.52 -0.582 -0.961 -0.898 -1.559 m 0 0" style="fill:#9f6;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 24 10 c -3.531 3.988 -6 6.9 -6 12 0 5.5 3.525 8.863 6 11 1 -3 1 -19 0 -23 z" style="fill:#95f365;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 24 10 0 23 0 2.199 l 1 0.801 0 -3 c 2.105 -2.195 5 -4.5 5 -11 0 -4 -3 -7 -5 -10 -0.413 -0.62 -1 -2 -1 -2 z" style="fill:#4ce462;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
    </g>
   </g>
  </g>

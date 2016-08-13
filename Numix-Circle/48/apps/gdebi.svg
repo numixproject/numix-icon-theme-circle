@@ -19,13 +19,7 @@
     <g style="opacity:0.1">
      <!-- color: #5e96c1 -->
      <g>
-      <path d="m 15 23 l 18 0 l 0 12 l -18 0 m 0 -12" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 11.03 26.426 l 4.391 -3.371 l 0.719 0.98 l -4.391 3.371 m -0.719 -0.98" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 31.891 23.977 l 4.387 3.371 l 0.719 -0.98 l -4.387 -3.371 m -0.719 0.98" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 17.14 17.14 l 2.723 0.883 l -0.863 2.789 l -2.723 -0.883 m 0.863 -2.789" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 19.08 12.262 l 4.23 -1.262 l 1.234 4.328 l -4.227 1.266 m -1.238 -4.332" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 27.887 19.406 l -1.348 1.754 l -2.156 -0.316 l -0.813 -2.066 l 1.348 -1.754 l 2.156 0.313 m 0.813 2.07" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 31.813 15.07 l -1.375 0.461 l -0.406 1.418 l -0.855 -1.191 l -1.445 0.043 l 0.848 -1.203 l -0.48 -1.395 l 1.379 0.453 l 1.145 -0.902 l 0.004 1.48 m 1.195 0.836" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+      <path d="m 24.311 12 l -4.23 1.262 l 1.236 4.332 l 4.229 -1.266 l -1.234 -4.328 z m 7.313 1.754 l -1.145 0.902 l -1.379 -0.453 l 0.48 1.395 l -0.848 1.203 l 1.445 -0.043 l 0.854 1.191 l 0.406 -1.418 l 1.375 -0.461 l -1.184 -0.836 l -0.006 -1.48 z m -5.705 4.27 l -1.348 1.754 l 0.813 2.066 l 2.156 0.316 l 1.348 -1.754 l -0.813 -2.068 l -2.156 -0.314 z m -7.777 0.117 l -0.863 2.789 l 2.723 0.883 l 0.863 -2.789 l -2.723 -0.883 z m -2.141 5.859 l -4 3.426 l 0.748 0.98 l 3.252 -2.807 l 0 10.4 l 18 0 l 0 -10.4 l 3.252 2.807 l 0.748 -0.98 l -4 -3.426 l -18 0 z" transform="translate(-1,-1)" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
      </g>
     </g>
    </g>
@@ -35,13 +29,11 @@
   <g>
    <!-- color: #5e96c1 -->
    <g>
-    <path d="m 15 23 l 18 0 l 0 12 l -18 0 m 0 -12" style="fill:#d7deff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 11.03 26.426 l 4.391 -3.371 l 0.719 0.98 l -4.391 3.371 m -0.719 -0.98" style="fill:#d7deff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 31.891 23.977 l 4.387 3.371 l 0.719 -0.98 l -4.387 -3.371 m -0.719 0.98" style="fill:#d7deff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 17.14 17.14 l 2.723 0.883 l -0.863 2.789 l -2.723 -0.883 m 0.863 -2.789" style="fill:#d7deff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 19.08 12.262 l 4.23 -1.262 l 1.234 4.328 l -4.227 1.266 m -1.238 -4.332" style="fill:#d7deff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 27.887 19.406 l -1.348 1.754 l -2.156 -0.316 l -0.813 -2.066 l 1.348 -1.754 l 2.156 0.313 m 0.813 2.07" style="fill:#d7deff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 31.813 15.07 l -1.375 0.461 l -0.406 1.418 l -0.855 -1.191 l -1.445 0.043 l 0.848 -1.203 l -0.48 -1.395 l 1.379 0.453 l 1.145 -0.902 l 0.004 1.48 m 1.195 0.836" style="fill:#d7deff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 15 23 l -4 3.426 l 0.748 0.98 l 3.252 -2.807 l 0 10.4 l 18 0 l 0 -10.4 l 3.252 2.807 l 0.748 -0.98 l -4 -3.426 l -18 0 z" style="fill:#d7deff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 17.14 17.14 l -0.863 2.789 l 2.723 0.883 l 0.863 -2.789 l -2.723 -0.883 z" style="fill:#d7deff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 23.311 11 l -4.23 1.262 l 1.236 4.332 l 4.229 -1.266 l -1.234 -4.328 z" style="fill:#d7deff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 24.918 17.02 l -1.348 1.754 l 0.813 2.066 l 2.156 0.316 l 1.348 -1.754 l -0.813 -2.068 l -2.156 -0.314 z" style="fill:#d7deff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 30.623 12.754 l -1.145 0.902 l -1.379 -0.453 l 0.48 1.395 l -0.848 1.203 l 1.445 -0.043 l 0.854 1.191 l 0.406 -1.418 l 1.375 -0.461 l -1.184 -0.836 l -0.006 -1.48 z" style="fill:#d7deff;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
    </g>
   </g>
  </g>

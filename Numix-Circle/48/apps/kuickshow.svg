@@ -19,7 +19,7 @@
     <g style="opacity:0.1">
      <!-- color: #f5a562 -->
      <g>
-      <path d="m 14,12 c -0.379,0 -1,0.586 -1,1 l 0,22 c 0,0.414 0.621,1 1,1 l 19.898,0 C 34.277,36 35,35.414 35,35 l 0,-22 c 0,-0.414 -0.723,-1 -1.102,-1" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+      <path d="m 15 13 c -0.379 0 -1 0.586 -1 1 l 0 22 c 0 0.414 0.621 1 1 1 l 19.898 0 c 0.379 0 1.102 -0.586 1.102 -1 l 0 -22 c 0 -0.414 -0.723 -1 -1.102 -1 l -19.898 0 z" transform="translate(-1,-1)" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
      </g>
     </g>
    </g>
@@ -29,11 +29,11 @@
   <g>
    <!-- color: #f5a562 -->
    <g>
-    <path d="m 14,13 19.996,0 0,22 L 14,35 m 0,-22" style="fill:#5acffb;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="M 31,18.5 C 31,19.879 29.879,21 28.5,21 27.117,21 26,19.879 26,18.5 26,17.121 27.117,16 28.5,16 c 1.379,0 2.5,1.121 2.5,2.5 m 0,0" style="fill:#ffec95;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 25.02,30.5 4,-5.5 5.098,9 -6.102,1 M 25.02,30.5" style="fill:#439c62;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="M 14,34 21,23.004 28,34 20,35 m -6,-1" style="fill:#45b969;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 14,12 c -0.379,0 -1,0.586 -1,1 l 0,22 c 0,0.414 0.621,1 1,1 l 19.898,0 C 34.277,36 35,35.414 35,35 l 0,-22 c 0,-0.414 -0.723,-1 -1.102,-1 M 15,14 l 18,0 0,19.996 -18,0 M 15,14" style="fill:#ecedf1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 14 12 c -0.379 0 -1 0.586 -1 1 l 0 22 c 0 0.414 0.621 1 1 1 l 19.898 0 c 0.379 0 1.102 -0.586 1.102 -1 l 0 -22 c 0 -0.414 -0.723 -1 -1.102 -1 z" style="fill:#ecedf1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 15 14 18 0 0 20 -18 0" style="fill:#5acffb;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="M 28.5 16 C 27.117 16 26 17.121 26 18.5 C 26 19.879 27.117 21 28.5 21 C 29.879 21 31 19.879 31 18.5 C 31 17.121 29.879 16 28.5 16 z " style="fill:#ffec95;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 29 25 -7 9 11 0 0 -2 z" style="fill:#439c62;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 21 23 -6 9 0 2 13 0 z" style="fill:#45b969;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
    </g>
   </g>
  </g>

@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
  <defs>
   <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-   <stop style="stop-color:#e4e4e4;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#eee;stop-opacity:1"/>
+   <stop style="stop-color:#333;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#3d3d3d;stop-opacity:1"/>
   </linearGradient>
  </defs>
  <g>
@@ -14,17 +14,8 @@
   <path d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
  </g>
  <g>
-  <g>
-   <!-- color: #eeeeee -->
-  </g>
- </g>
- <path d="m 21 12 a 8 8 0 0 0 -8 8 8 8 0 0 0 2.959 6.205 A 8 8 0 0 0 15 30 8 8 0 0 0 23 38 8 8 0 0 0 30.762 31.895 8 8 0 0 0 32 32 8 8 0 0 0 40 24 8 8 0 0 0 32 16 8 8 0 0 0 28.357 16.879 8 8 0 0 0 21 12" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none"/>
- <circle cx="20" cy="19" r="8" style="fill:#2d2d2d;opacity:1;fill-opacity:1;stroke:none"/>
- <g>
   <path d="m 40.03 7.531 c 3.712 4.084 5.969 9.514 5.969 15.469 0 12.703 -10.297 23 -23 23 c -5.954 0 -11.384 -2.256 -15.469 -5.969 4.178 4.291 10.01 6.969 16.469 6.969 c 12.703 0 23 -10.298 23 -23 0 -6.462 -2.677 -12.291 -6.969 -16.469 z" style="opacity:0.1"/>
  </g>
- <circle cx="20" cy="19" r="6" style="fill:#f8ae18;opacity:1;fill-opacity:1;stroke:none"/>
- <circle cx="31" cy="23" r="8" style="fill:#2d2d2d;opacity:1;fill-opacity:1;stroke:none"/>
- <circle cx="22" cy="29" r="8" style="fill:#2d2d2d;opacity:1;fill-opacity:1;stroke:none"/>
- <circle cx="22" cy="29" r="6" style="fill:#f8ae18;opacity:1;fill-opacity:1;stroke:none"/>
+ <path d="m 23 13 c -5.54 0 -10 4.46 -10 10 l 0 14 14 0 c 5.54 0 10 -4.46 10 -10 l 0 -14 z m -8 7 7.5 0 c 2.493 0 4.5 2.01 4.5 4.5 0 1.16 -0.446 2.204 -1.162 3 c 0.716 0.796 1.162 1.84 1.162 3 c 0 2.493 -2.029 4.171 -4.5 4.5 l -7.5 0 0 -3 7.5 0 c 0.831 0 1.5 -0.669 1.5 -1.5 0 -0.831 -0.676 -1.61 -1.5 -1.5 l -7.5 0 0 -3 7.5 0 c 0.831 0 1.5 -0.669 1.5 -1.5 0 -0.831 -0.669 -1.5 -1.5 -1.5 l -7.5 0" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none"/>
+ <path d="m 22 12 c -5.54 0 -10 4.46 -10 10 l 0 14 14 0 c 5.54 0 10 -4.46 10 -10 l 0 -14 z m -8 7 7.5 0 c 2.493 0 4.5 2.01 4.5 4.5 0 1.16 -0.446 2.204 -1.162 3 c 0.716 0.796 1.162 1.84 1.162 3 0 2.493 -2.01 4.5 -4.5 4.5 l -7.5 0 0 -3 7.5 0 c 0.831 0 1.5 -0.669 1.5 -1.5 0 -0.831 -0.669 -1.5 -1.5 -1.5 l -7.5 0 0 -3 7.5 0 c 0.831 0 1.5 -0.669 1.5 -1.5 0 -0.831 -0.676 -1.61 -1.5 -1.5 l -7.5 0" style="fill:#1983cd;opacity:1;fill-opacity:1;stroke:none"/>
 </svg>

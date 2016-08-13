@@ -42,13 +42,13 @@
   <g>
    <!-- color: #394a6f -->
    <g>
-    <path d="m 12.898 12.898 22.2 0 0 22.2 -22.2 0 m 0 -22.2" style="fill:#9cbef4;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 23 22 c 0 1.105 -0.895 2 -2 2 -1.105 0 -2 -0.895 -2 -2 0 -1.105 0.895 -2 2 -2 1.105 0 2 0.895 2 2 m 0 0" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 12.906 24.281 -0.008 10.82 15.1 0 m -15.09 -10.82" style="fill:url(#linear0);stroke:none;fill-rule:nonzero"/>
-    <path d="m 24 20 -11 11 -0.094 0.125 0 3.969 22.19 0 0 -3.063 -11.09 -12.03 m -0.016 0" style="fill:url(#linear1);stroke:none;fill-rule:nonzero"/>
-    <path d="m 35.09 21.16 -10.781 13.938 10.781 0 m 0 -13.938" style="fill:url(#linear2);stroke:none;fill-rule:nonzero"/>
-    <path d="M 14.25,13 C 13.562,13 13,13.563 13,14.25 l 0,1 C 13,14.562 13.563,14 14.25,14 l 19.5,0 c 0.688,0 1.25,0.563 1.25,1.25 l 0,-1 C 35,13.562 34.437,13 33.75,13 m -19.5,0" id="SVGCleanerId_0" style="fill:#000;fill-opacity:0.102;stroke:none;fill-rule:nonzero"/>
-    <path d="m 3.987 3.528 5.572 0 c 0.254 0 0.46 0.246 0.46 0.548 l 0 5.395 c 0 0.303 -0.206 0.548 -0.46 0.548 l -5.572 0 c -0.256 0 -0.462 -0.245 -0.462 -0.548 l 0 -5.395 c 0 -0.302 0.206 -0.548 0.462 -0.548 m 0 0" transform="scale(3.543307,3.543307)" style="stroke-opacity:1;fill:none;stroke-miterlimit:4;stroke:#eaeaea;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:0.282"/>
+    <path d="m 13 13 22 0 l 0.09 22.1 -22.09 -0.098" style="fill:#9cbef4;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 21 20 c -1.105 0 -2 0.895 -2 2 c 0 1.105 0.895 2 2 2 c 1.105 0 2 -0.895 2 -2 c 0 -1.105 -0.895 -2 -2 -2 z" transform="translate(-4.4912129e-4,0)" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 13 24 0 11 15 0" style="fill:url(#linear0);stroke:none;fill-rule:nonzero"/>
+    <path d="m 24 20 -11 11 c 0 0 0 2.667 0 4 l 22 0 0 -3" style="fill:url(#linear1);stroke:none;fill-rule:nonzero"/>
+    <path d="m 35 21 -11 14 11 0" style="fill:url(#linear2);stroke:none;fill-rule:nonzero"/>
+    <path d="m 14.25 13 c -0.688 0 -1.25 0.563 -1.25 1.25 l 0 1 c 0 -0.688 0.563 -1.25 1.25 -1.25 l 19.5 0 c 0.688 0 1.25 0.563 1.25 1.25 l 0 -1 c 0 -0.688 -0.563 -1.25 -1.25 -1.25 l -19.5 0 z" transform="translate(-4.4912129e-4,0)" id="SVGCleanerId_0" style="fill:#000;fill-opacity:0.102;stroke:none;fill-rule:nonzero"/>
+    <path d="m 14.13 12.5 c -0.907 0 -1.637 0.873 -1.637 1.943 l 0 19.12 c 0 1.074 0.73 1.941 1.637 1.941 l 19.744 0 c 0.9 0 1.629 -0.868 1.629 -1.941 l 0 -19.12 c 0 -1.07 -0.729 -1.943 -1.629 -1.943 l -19.744 0 z" transform="translate(-4.4912129e-4,0)" style="stroke-dasharray:none;stroke-opacity:1;fill:none;stroke-miterlimit:4;stroke:#eaeaea;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1"/>
    </g>
   </g>
  </g>
