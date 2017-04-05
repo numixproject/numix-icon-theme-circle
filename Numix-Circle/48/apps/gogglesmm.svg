@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg29" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata33">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs7">
+  <linearGradient id="linearGradient4463" x1="1" x2="47" gradientTransform="translate(-48)" gradientUnits="userSpaceOnUse">
+   <stop id="stop2" style="stop-color:#575757" offset="0"/>
+   <stop id="stop4" style="stop-color:#616161" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="g15">
+  <path id="path9" d="m36.31 5c5.859 4.062 9.688 10.831 9.688 18.5 0 12.426-10.07 22.5-22.5 22.5-7.669 0-14.438-3.828-18.5-9.688 1.037 1.822 2.306 3.499 3.781 4.969 4.085 3.712 9.514 5.969 15.469 5.969 12.703 0 23-10.298 23-23 0-5.954-2.256-11.384-5.969-15.469-1.469-1.475-3.147-2.744-4.969-3.781zm4.969 3.781c3.854 4.113 6.219 9.637 6.219 15.719 0 12.703-10.297 23-23 23-6.081 0-11.606-2.364-15.719-6.219 4.16 4.144 9.883 6.719 16.219 6.719 12.703 0 23-10.298 23-23 0-6.335-2.575-12.06-6.719-16.219z" style="opacity:.05"/>
+  <path id="path11" d="m41.28 8.781c3.712 4.085 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.113 3.854 9.637 6.219 15.719 6.219 12.703 0 23-10.298 23-23 0-6.081-2.364-11.606-6.219-15.719z" style="opacity:.1"/>
+  <path id="path13" d="m31.25 2.375c8.615 3.154 14.75 11.417 14.75 21.13 0 12.426-10.07 22.5-22.5 22.5-9.708 0-17.971-6.135-21.12-14.75a23 23 0 0 0 44.875 -7 23 23 0 0 0 -16 -21.875z" style="opacity:.2"/>
+ </g>
+ <circle id="circle17" transform="rotate(-90)" cx="-24" cy="24" r="23" style="fill:url(#linearGradient4463)"/>
+ <g id="g21">
+  <path id="path19" d="m40.03 7.531c3.712 4.084 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.178 4.291 10.01 6.969 16.469 6.969 12.703 0 23-10.298 23-23 0-6.462-2.677-12.291-6.969-16.469z" style="opacity:.1"/>
+ </g>
+ <path id="ellipse4545" d="m28 9-6 8v-6l-5 7-3-5v7.1719c-2.0328 0.33041-3.6671 1.0273-5 1.0273v1.3008c0 1 0.431 1.12 1 1.5 1.1296 3.1686 1.1093 6.3294 4.0293 7.5098a11 7 0 0 0 10.971 6.4902 11 7 0 0 0 10.959 -6.4844c2.9325-1.1764 2.9098-4.3426 4.041-7.5156 0.569-0.38 1-0.5 1-1.5v-1.3008c-1.5235 0-3.437-0.9145-5.8945-1.1465l0.89453-8.0527-5 6 1-6-4 4z" style="opacity:.1"/>
+ <ellipse id="path4517" cx="24" cy="30" rx="11" ry="7" style="fill:#fac496"/>
+ <path id="rect4514" d="m24 22c2 0 4 5.5 4 5.5 0 2.216-1.784 3.5-4 3.5s-4-1.284-4-3.5c0 0 2-5.5 4-5.5z" style="fill:#fbb577"/>
+ <path id="rect4542" d="m13 12 3 5 5-7v6l6-8v7l4-4-1 6 5-6-1 9-10 2-11-2z" style="fill:#f9ed33"/>
+ <path id="path25" d="m15 19c-3 0-5.255 1.199-7 1.199v1.301c0 1 0.431 1.12 1 1.5 1.426 4 1 8 7 8 5.332 0 6.298-5 6.801-7 0.127-0.505 0.199-1 1.199-1s1.072 0.495 1.199 1c0.503 2 1.469 7 6.801 7 6 0 5.574-4 7-8 0.569-0.38 1-0.5 1-1.5v-1.301c-1.745 0-4-1.199-7-1.199-4 0-6 1.5-9 1.5s-5-1.5-9-1.5z" style="fill:#3e58b2"/>
+ <path id="path27" d="m16 20.5c-2.423 0-5.129 0.468-5 2.5 0.34 5.355 1.755 6.504 5 6.5 3.265-4e-3 5.162-2.954 5.5-6 0.211-1.902-2.5-3-5.5-3zm16 0c-3 0-5.711 1.098-5.5 3 0.338 3.046 2.235 5.996 5.5 6 3.245 4e-3 4.66-1.145 5-6.5 0.129-2.032-2.577-2.5-5-2.5z" style="fill:#34416c"/>
+ <path id="path4538" d="m20.496 32.996c-0.49931-0.0019-0.6927 0.64874-0.27344 0.91992l1.5 1c0.082132 0.054755 0.17863 0.083977 0.27734 0.083984h3.9995c0.09871-6e-6 0.19521-0.02923 0.27734-0.08398l1.5-1c0.56909-0.36686 0.0028-1.2162-0.55469-0.83204l-1.375 0.91602h-3.6948l-1.375-0.91602c-0.08279-0.05688-0.1808-0.08751-0.28125-0.08789z" style="color-rendering:auto;color:#000000;dominant-baseline:auto;fill-rule:evenodd;fill:#a43a3a;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</svg>
