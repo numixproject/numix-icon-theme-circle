@@ -11,8 +11,8 @@
  <circle cx="24" cy="24" r="23" style="fill:url(#bg)"/>
  <path d="m23 12-3 2.4668-7 14.533v5l6 2 15.242-2 1.7578-3 1-5-2-4-7-8z" style="opacity:.1;paint-order:normal"/>
  <path d="m40.03 7.531c3.712 4.084 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.178 4.291 10.01 6.969 16.469 6.969 12.703 0 23-10.298 23-23 0-6.462-2.677-12.291-6.969-16.469z" style="opacity:.1"/>
- <path d="m35 30-1.7574 3c-1.2426 0-3.2426-2-3.2426-4s0-4 1-5c1-2 1-2 3-3l2 4z" style="fill:#bf0505;paint-order:normal"/>
- <path d="m27 13 7 8-3 3c-2 0-5 0-6-2-3-1-5-5-6-8.5341l3-2.4659z" style="fill:#f93d3d;paint-order:normal"/>
+ <path d="m35 30-1.7574 3-9.2426-8 10-4 2 4z" style="fill:#bf0505;paint-order:normal"/>
+ <path d="m27 13 7 8-3 3h-8l-4-10.534 3-2.4659z" style="fill:#f93d3d;paint-order:normal"/>
  <path d="m19 13.466 6 8.5341c-2 3-8 6-13 6z" style="fill:#fa6a6a;paint-order:normal"/>
  <path d="m33.243 33-15.243 2c3-3 7-5 12-6z" style="fill:#a70505;paint-order:normal"/>
  <path d="m12 28 13-6 6 2-1 5-12 6-6-2z" style="fill:#f50707;paint-order:normal"/>
