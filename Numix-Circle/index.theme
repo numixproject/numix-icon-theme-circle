@@ -11,35 +11,35 @@ Directories=16/panel,16@2x/panel,22/panel,22@2x/panel,24/panel,24@2x/panel,48/ap
 
 [16/panel]
 Size=16
-Context=Panel
+Context=Status
 Type=Fixed
 
 [16@2x/panel]
 Size=16
 Scale=2
-Context=Panel
+Context=Status
 Type=Fixed
 
 [22/panel]
 Size=22
-Context=Panel
+Context=Status
 Type=Fixed
 
 [22@2x/panel]
 Size=22
 Scale=2
-Context=Panel
+Context=Status
 Type=Fixed
 
 [24/panel]
 Size=24
-Context=Panel
+Context=Status
 Type=Fixed
 
 [24@2x/panel]
 Size=24
 Scale=2
-Context=Panel
+Context=Status
 Type=Fixed
 
 [48/apps]
