@@ -19,11 +19,7 @@
     <g style="opacity:0.1">
      <!-- color: #eeeeee -->
      <g>
-      <path d="m 11 18 l 0 12 l 16 0 l 0 -2 l -14 0 l 0 -8 l 14 0 l 0 -2 m 4 0 l 0 2 l 4 0 l 0 8 l -4 0 l 0 2 l 6 0 l 0 -12 m -6 0" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 14 22 l 9 0 l 0 4 l -9 0 m 0 -4" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 28 34 l 0 -19.996 l 1.996 0 l 0 19.996 m -1.996 0" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 25.02 14 l 8 0 l 0 1.996 l -8 0 m 0 -1.996" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 25.02 31.996 l 8 0 l 0 2 l -8 0 m 0 -2" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+      <path d="m 26.02 15 l 0 1.996 l 2.98 0 l 0 16 l -2.98 0 l 0 2 l 2.98 0 l 0 0.004 l 1.996 0 l 0 -0.004 l 3.02 0 l 0 -2 l -3.02 0 l 0 -16 l 3.02 0 l 0 -1.996 l -8 0 z m -14.02 4 l 0 12 l 16 0 l 0 -2 l -14 0 l 0 -8 l 14 0 l 0 -2 l -16 0 z m 20 0 l 0 2 l 4 0 l 0 8 l -4 0 l 0 2 l 6 0 l 0 -12 l -6 0 z m -17 4 l 0 4 l 9 0 l 0 -4 l -9 0 z" transform="translate(-1,-1)"/>
      </g>
     </g>
    </g>
@@ -33,11 +29,11 @@
   <g>
    <!-- color: #eeeeee -->
    <g>
-    <path d="m 11 18 l 0 12 l 16 0 l 0 -2 l -14 0 l 0 -8 l 14 0 l 0 -2 m 4 0 l 0 2 l 4 0 l 0 8 l -4 0 l 0 2 l 6 0 l 0 -12 m -6 0" style="fill:#777;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 14 22 l 9 0 l 0 4 l -9 0 m 0 -4" style="fill:#282828;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 28 34 l 0 -19.996 l 1.996 0 l 0 19.996 m -1.996 0" style="fill:#ff9c36;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 25.02 14 l 8 0 l 0 1.996 l -8 0 m 0 -1.996" style="fill:#ff9c36;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 25.02 31.996 l 8 0 l 0 2 l -8 0 m 0 -2" style="fill:#ff9c36;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 11 18 0 12 16 0 0 -2 -14 0 0 -8 14 0 0 -2 m 4 0 0 2 4 0 0 8 -4 0 0 2 6 0 0 -12 m -6 0" style="fill:#777;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 14 22 9 0 0 4 -9 0 m 0 -4" style="fill:#282828;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 28,34 0,-19.996 1.996,0 0,19.996 M 28,34" style="fill:#ff9c36;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 25.02 14 8 0 0 1.996 -8 0 m 0 -1.996" style="fill:#ff9c36;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 25.02 31.996 8 0 0 2 -8 0 m 0 -2" style="fill:#ff9c36;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
    </g>
   </g>
  </g>
