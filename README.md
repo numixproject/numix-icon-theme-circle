@@ -23,7 +23,7 @@ sudo apt update
 sudo apt install numix-icon-theme-circle
 ```
 
-For Arch users there's a [community maintained package](https://aur.archlinux.org/packages/numix-icon-theme-git/) in the AUR which builds from this GitHub.
+For Arch users there's a [community maintained package](https://aur.archlinux.org/packages/numix-circle-icon-theme-git/) in the AUR which builds from this GitHub.
 
 ## Issues & Requests
 The tracker for this repo is only for issues relating to the Linux packaging. Please report icon requests in [this repo](https://github.com/numixproject/circle-core/issues) which handles the icons themselves.
