@@ -1,0 +1,43 @@
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientTransform="matrix(0 -1 1 0 -1.5e-6 48)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#3d3d3d" offset="0"/>
+   <stop style="stop-color:#474747" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m36.31 5c5.859 4.062 9.688 10.831 9.688 18.5 0 12.426-10.07 22.5-22.5 22.5-7.669 0-14.438-3.828-18.5-9.688 1.037 1.822 2.306 3.499 3.781 4.969 4.085 3.712 9.514 5.969 15.469 5.969 12.703 0 23-10.298 23-23 0-5.954-2.256-11.384-5.969-15.469-1.469-1.475-3.147-2.744-4.969-3.781zm4.969 3.781c3.854 4.113 6.219 9.637 6.219 15.719 0 12.703-10.297 23-23 23-6.081 0-11.606-2.364-15.719-6.219 4.16 4.144 9.883 6.719 16.219 6.719 12.703 0 23-10.298 23-23 0-6.335-2.575-12.06-6.719-16.219z" style="opacity:.05"/>
+ <path d="m41.28 8.781c3.712 4.085 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.113 3.854 9.637 6.219 15.719 6.219 12.703 0 23-10.298 23-23 0-6.081-2.364-11.606-6.219-15.719z" style="opacity:.1"/>
+ <path d="m31.25 2.375c8.615 3.154 14.75 11.417 14.75 21.13 0 12.426-10.07 22.5-22.5 22.5-9.708 0-17.971-6.135-21.12-14.75a23 23 0 0 0 44.875 -7 23 23 0 0 0 -16 -21.875z" style="opacity:.2"/>
+ <path d="m24 1c12.703 0 23 10.297 23 23s-10.297 23-23 23-23-10.297-23-23 10.297-23 23-23z" style="fill:url(#linearGradient3764)"/>
+ <path d="m16 11v2h-2v24h22v-24h-2v-2h-2v2h-2v-2h-2v2h-6v-2h-2v2h-2v-2z" style="opacity:.1"/>
+ <path d="m40.03 7.531c3.712 4.084 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.178 4.291 10.01 6.969 16.469 6.969 12.703 0 23-10.298 23-23 0-6.462-2.677-12.291-6.969-16.469z" style="opacity:.1"/>
+ <rect x="13" y="12" width="22" height="24" style="fill:#e3dedb"/>
+ <ellipse transform="matrix(.875 0 0 .77778 31 22.556)" cy="11.5" rx="4" ry="4.5" style="fill:#4d4d4d"/>
+ <g transform="matrix(.19286 0 0 .19565 26.168 26.899)" style="opacity:.7">
+  <ellipse transform="matrix(.46384 0 0 .52305 46.604 4.0851)" cx="-41.19" cy="18" rx="5.39" ry="4.78" style="fill:#ff2a2a"/>
+  <ellipse transform="matrix(.46384 0 0 .52305 39.604 10.085)" cx="-41.19" cy="18" rx="5.39" ry="4.78" style="fill:#ff2a2a"/>
+  <ellipse transform="matrix(.46384 0 0 .52305 33.604 16.085)" cx="-41.19" cy="18" rx="5.39" ry="4.78" style="fill:#d40000"/>
+  <ellipse transform="matrix(.46384 0 0 .52305 42.604 16.085)" cx="-41.19" cy="18" rx="5.39" ry="4.78" style="fill:#f55"/>
+  <ellipse transform="matrix(.46384 0 0 .52305 49.604 10.085)" cx="-41.19" cy="18" rx="5.39" ry="4.78" style="fill:#f55"/>
+  <ellipse transform="matrix(.46384 0 0 .52305 51.604 16.085)" cx="-41.19" cy="18" rx="5.39" ry="4.78" style="fill:#faa"/>
+  <ellipse transform="matrix(.46384 0 0 .52305 53.604 22.085)" cx="-41.19" cy="18" rx="5.39" ry="4.78" style="fill:#f9f9f9"/>
+  <ellipse transform="matrix(.46384 0 0 .52305 44.604 22.085)" cx="-41.19" cy="18" rx="5.39" ry="4.78" style="fill:#faa"/>
+  <ellipse transform="matrix(.46384 0 0 .52305 36.604 22.085)" cx="-41.19" cy="18" rx="5.39" ry="4.78" style="fill:#d40000"/>
+ </g>
+ <rect x="15" y="10" width="2" height="4" style="fill:#fc0"/>
+ <rect x="16" y="17" width="16" height="1" style="fill:#808080"/>
+ <rect x="16" y="20" width="11" height="1" style="fill:#808080"/>
+ <rect x="16" y="23" width="16" height="1" style="fill:#808080"/>
+ <rect x="16" y="26" width="10" height="1" style="fill:#808080"/>
+ <g transform="matrix(.68965 .68022 -.66578 .70461 39.467 19.229)">
+  <rect x="-8" y="5" width="2" height="19" style="fill:#ffd42a"/>
+  <rect x="-8" y="2" width="2" height="3" style="fill:#c83737"/>
+  <path d="m-8 24h2l-1 4z" style="fill:#ffe680"/>
+  <rect x="-8" y="4" width="2" height="1" style="fill:#f4d7d7"/>
+  <rect x="-7" y="5" width="1" height="19" style="fill:#d4aa00"/>
+  <path d="m-6.481 26-0.519 2-0.492-2h1.01z"/>
+ </g>
+ <rect x="19" y="10" width="2" height="4" style="fill:#fc0"/>
+ <rect x="27" y="10" width="2" height="4" style="fill:#fc0"/>
+ <rect x="31" y="10" width="2" height="4" style="fill:#fc0"/>
+</svg>

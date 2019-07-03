@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg2" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="0 0 48 48">
+ <metadata id="metadata65">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs4">
+  <linearGradient id="linearGradient3764" x2="47" gradientTransform="matrix(0 -1 1 0 -.0000015 48)" gradientUnits="userSpaceOnUse" x1="1">
+   <stop id="stop7" offset="0" style="stop-color:#93aca7"/>
+   <stop id="stop9" offset="1" style="stop-color:#9fb5b1"/>
+  </linearGradient>
+ </defs>
+ <g id="g11">
+  <path id="path13" d="m36.31 5c5.859 4.062 9.688 10.831 9.688 18.5 0 12.426-10.07 22.5-22.5 22.5-7.669 0-14.438-3.828-18.5-9.688 1.037 1.822 2.306 3.499 3.781 4.969 4.085 3.712 9.514 5.969 15.469 5.969 12.703 0 23-10.298 23-23 0-5.954-2.256-11.384-5.969-15.469-1.469-1.475-3.147-2.744-4.969-3.781zm4.969 3.781c3.854 4.113 6.219 9.637 6.219 15.719 0 12.703-10.297 23-23 23-6.081 0-11.606-2.364-15.719-6.219 4.16 4.144 9.883 6.719 16.219 6.719 12.703 0 23-10.298 23-23 0-6.335-2.575-12.06-6.719-16.219z" style="opacity:.05"/>
+  <path id="path15" d="m41.28 8.781c3.712 4.085 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.113 3.854 9.637 6.219 15.719 6.219 12.703 0 23-10.298 23-23 0-6.081-2.364-11.606-6.219-15.719z" style="opacity:.1"/>
+  <path id="path17" d="m31.25 2.375c8.615 3.154 14.75 11.417 14.75 21.13 0 12.426-10.07 22.5-22.5 22.5-9.708 0-17.971-6.135-21.12-14.75a23 23 0 0 0 44.875 -7 23 23 0 0 0 -16 -21.875z" style="opacity:.2"/>
+ </g>
+ <g id="g19">
+  <path id="path21" d="m24 1c12.703 0 23 10.297 23 23s-10.297 23-23 23-23-10.297-23-23 10.297-23 23-23z" style="fill:url(#linearGradient3764)"/>
+ </g>
+ <path id="path4185" d="m25 9c-8.2843-0.0047-15 6.7157-15 15s6.7157 15.004 15 15c4.7152-0.002 9.1533-2.2279 11.982-6h-2.6211c-2.4469 2.5505-5.8269 3.9982-9.3613 4-7.1797 0.0036-13-5.8203-13-13s5.8203-13.001 13-13c3.5392 0.000524 6.9248 1.4461 9.375 4h2.6016c-2.828-3.77-7.264-5.9973-11.977-6z" style="opacity:.6;fill:#1a1a1a"/>
+ <g id="g23">
+  <path id="path25" d="m40.03 7.531c3.712 4.084 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.178 4.291 10.01 6.969 16.469 6.969 12.703 0 23-10.298 23-23 0-6.462-2.677-12.291-6.969-16.469z" style="opacity:.1"/>
+ </g>
+ <g id="g29" transform="matrix(3.5433 0 0 3.5433 -.000496 -.000164)">
+  <g id="g31" transform="matrix(1.6667 0 0 1.5714 -4.4215 -3.7294)" style="opacity:.1">
+   <g id="g33" transform="translate(-4.6527e-8 .84667)">
+    <path id="path35" transform="matrix(.16933 0 0 .17960 2.6529 1.5266)" d="m26 13.5-10 4.715v3.143l1.666 0.785-1.666 0.785v3.145l1.666 0.785-1.666 0.785v3.143l10 4.715 10-4.715v-3.143l-1.666-0.785 1.666-0.785v-3.145l-1.666-0.785 1.666-0.785v-3.143l-10-4.715z" style="fill-rule:evenodd"/>
+   </g>
+  </g>
+  <g id="g37" transform="matrix(1.6667 0 0 1.5714 -4.7037 -4.0116)">
+   <g id="g39" transform="translate(-4.6527e-8 .84667)">
+    <path id="path41" d="m5.362 7.06v-0.564l1.693 0.847v0.564z" style="fill-rule:evenodd;fill:#2c89a0"/>
+    <path id="path43" d="m8.749 7.06v-0.564l-1.693 0.847v0.564z" style="fill-rule:evenodd;fill:#37c871"/>
+    <path id="path45" d="m5.362 6.491 1.693-0.847 1.693 0.847-1.693 0.847" style="fill-rule:evenodd;fill:#536c67"/>
+   </g>
+   <g id="g47">
+    <path id="path49" d="m5.362 7.06v-0.564l1.693 0.847v0.564z" style="fill-rule:evenodd;fill:#2c89a0"/>
+    <path id="path51" d="m8.749 7.06v-0.564l-1.693 0.847v0.564z" style="fill-rule:evenodd;fill:#37c871"/>
+    <path id="path53" d="m5.362 6.491 1.693-0.847 1.693 0.847-1.693 0.847" style="fill-rule:evenodd;fill:#536c67"/>
+   </g>
+   <g id="g55">
+    <path id="path57" d="m5.362 6.209v-0.564l1.693 0.847v0.564z" style="fill-rule:evenodd;fill:#2c89a0"/>
+    <path id="path59" d="m8.749 6.209v-0.564l-1.693 0.847v0.564z" style="fill-rule:evenodd;fill:#37c871"/>
+    <path id="path61" d="m5.362 5.644 1.693-0.847 1.693 0.847-1.693 0.847" style="fill-rule:evenodd;fill:#87deaa"/>
+   </g>
+  </g>
+ </g>
+</svg>
