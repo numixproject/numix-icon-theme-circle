@@ -15,5 +15,5 @@
  <rect x="27" y="30" width="10" height="6" ry="1" style="fill:#f9f9f9"/>
  <rect x="18" y="22" width="12" height="6" ry="1" style="fill:#f9f9f9"/>
  <circle cx="24" cy="15" r="5" style="fill:#f9f9f9"/>
- <path d="m15 14c-0.55226 5e-6 -1 0.44774-1 1v18l1.6992 0.71484 8.3008-8.1133 8.3008 8.1133 1.6992-0.71484v-18c0-0.55226-0.44774-1-1-1-6-5.1e-5 -12-5.1e-5 -18 0zm1 2h7v7.7812l-7 6.8438zm9 0h7v14.625l-7-6.8438z" style="color-rendering:auto;color:#000000;dominant-baseline:auto;fill:#f9f9f9;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path d="m15 14c-0.55226 5e-6 -1 0.44774-1 1v18l1.6992 0.71484 8.3008-8.1133 8.3008 8.1133 1.6992-0.71484v-18c0-0.55226-0.44774-1-1-1-6-5.1e-5 -12-5.1e-5 -18 0zm1 2h7v7.7812l-7 6.8438zm9 0h7v14.625l-7-6.8438z" style="fill:#f9f9f9"/>
 </svg>

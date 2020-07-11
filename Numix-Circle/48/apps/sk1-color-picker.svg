@@ -9,14 +9,14 @@
  <path d="m41.28 8.781c3.712 4.085 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.113 3.854 9.637 6.219 15.719 6.219 12.703 0 23-10.298 23-23 0-6.081-2.364-11.606-6.219-15.719z" style="opacity:.1"/>
  <path d="m31.25 2.375c8.615 3.154 14.75 11.417 14.75 21.13 0 12.426-10.07 22.5-22.5 22.5-9.708 0-17.971-6.135-21.12-14.75a23 23 0 0 0 44.875-7 23 23 0 0 0-16-21.875z" style="opacity:.2"/>
  <circle cx="24" cy="24" r="23" style="fill:url(#bg)"/>
- <path d="m17.5 12-7.5 13 7.5 13h15l7.5-13-7.5-13z" style="opacity:.1;paint-order:normal"/>
+ <path d="m17.5 12-7.5 13 7.5 13h15l7.5-13-7.5-13z" style="opacity:.1"/>
  <path d="m40.03 7.531c3.712 4.084 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.178 4.291 10.01 6.969 16.469 6.969 12.703 0 23-10.298 23-23 0-6.462-2.677-12.291-6.969-16.469z" style="opacity:.1"/>
- <path d="m17.5 13 4.5 4.1897 2 6.8103-7 2-6-2 2.5-6.5z" style="fill:#1bba4f;paint-order:normal"/>
- <path d="m24 24 5-4.2376 1.5-6.7624-6.5-1-6.5 1z" style="fill:#6588ce;paint-order:normal"/>
- <path d="m30.5 13-6.5 11 7 2 6-2-2.5-6.5z" style="fill:#9d6f8a;paint-order:normal"/>
- <path d="m17.5 35 4.5-4.1897 2-6.8103h-13l2.5 6.5z" style="fill:#fcee54;paint-order:normal"/>
- <path d="m24 24 5 4.2376 1.5 6.7624-6.5 1-6.5-1z" style="fill:#f8953c;paint-order:normal"/>
- <path d="m30.5 35-6.5-11h13l-2.5 6.5z" style="fill:#f25050;paint-order:normal"/>
- <path d="m17.5 13-6.5 11 6.5 11h0.42773l-5.7285-10 6.3008-11h12.592l-0.5918-1h-13z" style="opacity:.1;paint-order:normal"/>
- <path d="m16.5 11.001-7.5 12.999 7.5 13h15l7.5-13-7.5-12.999zm1 1.9993h13l6.3 11.001-6.3 10.999h-13l-6.3-10.999z" style="color-rendering:auto;color:#000000;dominant-baseline:auto;fill:#f9f9f9;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path d="m17.5 13 4.5 4.1897 2 6.8103-7 2-6-2 2.5-6.5z" style="fill:#1bba4f"/>
+ <path d="m24 24 5-4.2376 1.5-6.7624-6.5-1-6.5 1z" style="fill:#6588ce"/>
+ <path d="m30.5 13-6.5 11 7 2 6-2-2.5-6.5z" style="fill:#9d6f8a"/>
+ <path d="m17.5 35 4.5-4.1897 2-6.8103h-13l2.5 6.5z" style="fill:#fcee54"/>
+ <path d="m24 24 5 4.2376 1.5 6.7624-6.5 1-6.5-1z" style="fill:#f8953c"/>
+ <path d="m30.5 35-6.5-11h13l-2.5 6.5z" style="fill:#f25050"/>
+ <path d="m17.5 13-6.5 11 6.5 11h0.42773l-5.7285-10 6.3008-11h12.592l-0.5918-1h-13z" style="opacity:.1"/>
+ <path d="m16.5 11.001-7.5 12.999 7.5 13h15l7.5-13-7.5-12.999zm1 1.9993h13l6.3 11.001-6.3 10.999h-13l-6.3-10.999z" style="fill:#f9f9f9"/>
 </svg>
