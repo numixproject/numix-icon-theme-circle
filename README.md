@@ -34,8 +34,7 @@ For Gentoo users there's a [community maintained ebuild](https://github.com/Blue
 
 ## Issues & Requests
 
-The tracker for this repo is only for issues relating to the Linux packaging. Please report icon requests in [this repo](https://github.com/numixproject/circle-core/issues) which handles the icons themselves.
-For normal applications follow [this video tutorial](https://plus.google.com/+NumixprojectOrg/posts/DkRmhFZuWez), for Steam games follow [this one](https://www.youtube.com/watch?v=BuUy4CzCoXc) and for Chrome apps just post a link to the webstore page. When filing your request please be respectful, patient, and remember that development is done solely by volunteers.
+The tracker for this repo is only for issues relating to the Linux packaging. Please [make icon requests here](https://github.com/numixproject/numix-core/issues/new/choose) using the relevant template. When filing your request please be respectful, patient, and remember that development is done solely by volunteers.
 
 ## Hardcoded Icons
 
