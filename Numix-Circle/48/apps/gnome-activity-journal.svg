@@ -15,9 +15,9 @@
    <path d="m12 12v24h24v-24" style="fill-rule:evenodd"/>
   </g>
  </g>
- <path d="m12 12v24h24v-24h-24z" style="fill-rule:evenodd;fill:#fdcb02"/>
- <path d="m13 31v4h22v-4h-22z" style="fill-rule:evenodd;fill:#f9f9f9"/>
- <path d="m12 12v18h24v-18h-24z" style="fill-rule:evenodd;fill:#eeb602"/>
- <path d="m29 20v4h7v-4h-7zm2.5 1a1.5 1 0 0 1 1.5 1 1.5 1 0 0 1-1.5 1 1.5 1 0 0 1-1.5-1 1.5 1 0 0 1 1.5-1z" style="fill-rule:evenodd;fill:#b79402"/>
- <path d="m13 31.996v1h22v-1h-22zm0 2.0039v1h22v-1h-22z" style="fill-rule:evenodd;fill:#e5e5e5"/>
+ <path d="m12 12v24h24v-24h-24z" style="fill:#fdcb02"/>
+ <path d="m13 31v4h22v-4h-22z" style="fill:#f9f9f9"/>
+ <path d="m12 12v18h24v-18h-24z" style="fill:#eeb602"/>
+ <path d="m29 20v4h7v-4h-7zm2.5 1a1.5 1 0 0 1 1.5 1 1.5 1 0 0 1-1.5 1 1.5 1 0 0 1-1.5-1 1.5 1 0 0 1 1.5-1z" style="fill:#b79402"/>
+ <path d="m13 31.996v1h22v-1h-22zm0 2.0039v1h22v-1h-22z" style="fill:#e5e5e5"/>
 </svg>

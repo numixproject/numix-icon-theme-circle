@@ -17,10 +17,10 @@
  <path d="m33 22 2 2-1 1h-20l-1-1 2-2c3-1 15-1 18 0z" style="fill:#323232"/>
  <path d="m12 25 1-1h4c1-1 5-1 7-1s6 0 7 1h4l1 1-1 1h-22z" style="fill:#4176af"/>
  <path d="m12 25v4l1 1v1h5v-1h12v1h5v-1l1-1v-4h-24z" style="fill:#1e4c85"/>
- <circle cx="32.5" cy="27.5" r=".5" style="fill:#67bc2c;paint-order:stroke fill markers"/>
- <rect x="13" y="26" width="9" height="3" style="fill:#323232;paint-order:stroke fill markers"/>
- <circle cx="20.5" cy="27.5" r=".5" style="fill:#67bc2c;paint-order:stroke fill markers"/>
- <circle cx="18.5" cy="27.5" r=".5" style="fill:#67bc2c;paint-order:stroke fill markers"/>
- <rect x="14" y="27" width="3" height="1" style="fill:#7c8081;paint-order:stroke fill markers"/>
- <rect x="22" y="26" width="4" height="3" style="fill:#4d504e;paint-order:stroke fill markers"/>
+ <circle cx="32.5" cy="27.5" r=".5" style="fill:#67bc2c"/>
+ <rect x="13" y="26" width="9" height="3" style="fill:#323232"/>
+ <circle cx="20.5" cy="27.5" r=".5" style="fill:#67bc2c"/>
+ <circle cx="18.5" cy="27.5" r=".5" style="fill:#67bc2c"/>
+ <rect x="14" y="27" width="3" height="1" style="fill:#7c8081"/>
+ <rect x="22" y="26" width="4" height="3" style="fill:#4d504e"/>
 </svg>

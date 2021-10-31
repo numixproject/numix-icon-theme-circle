@@ -10,13 +10,13 @@
  <path d="m31.25 2.375c8.615 3.154 14.75 11.417 14.75 21.13 0 12.426-10.07 22.5-22.5 22.5-9.708 0-17.971-6.135-21.12-14.75a23 23 0 0 0 44.875-7 23 23 0 0 0-16-21.875z" style="opacity:.2"/>
  <circle cx="24" cy="24" r="23" style="fill:url(#bg)"/>
  <path d="m40.03 7.531c3.712 4.084 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.178 4.291 10.01 6.969 16.469 6.969 12.703 0 23-10.298 23-23 0-6.462-2.677-12.291-6.969-16.469z" style="opacity:.1"/>
- <path d="m11 13v3h1v18h-1v3h28v-3h-1v-18h1v-3h-28z" style="opacity:.1;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke-width:3.7173"/>
- <rect x="11" y="15" width="26" height="19" style="fill:#97c3df;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke-width:3.7173"/>
- <path d="m10 12v3h6v18h-6v3h28v-3h-6v-18h6v-3zm8 3h12v18h-12z" style="fill:#2d2d2d;stroke-width:1.0801"/>
- <path d="m11 13v1h2v-1h-2zm4 0v1h2v-1h-2zm4 0v1h2v-1h-2zm4 0v1h2v-1h-2zm4 0v1h2v-1h-2zm4 0v1h2v-1h-2zm4 0v1h2v-1h-2zm-24 21v1h2v-1h-2zm4 0v1h2v-1h-2zm4 0v1h2v-1h-2zm4 0v1h2v-1h-2zm4 0v1h2v-1h-2zm4 0v1h2v-1h-2zm4 0v1h2v-1h-2z" style="fill:#f9f9f9;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke-width:4"/>
+ <path d="m11 13v24h28v-3h-1v-18h1v-3z" style="opacity:.1"/>
+ <rect x="11" y="15" width="26" height="19" style="fill:#97c3df"/>
+ <path d="m10 12v3h6v18h-6v3h28v-3h-6v-18h6v-3zm8 3h12v18h-12z" style="fill:#333"/>
+ <path d="m11 13v1h2v-1h-2zm4 0v1h2v-1h-2zm4 0v1h2v-1h-2zm4 0v1h2v-1h-2zm4 0v1h2v-1h-2zm4 0v1h2v-1h-2zm4 0v1h2v-1h-2zm-24 21v1h2v-1h-2zm4 0v1h2v-1h-2zm4 0v1h2v-1h-2zm4 0v1h2v-1h-2zm4 0v1h2v-1h-2zm4 0v1h2v-1h-2zm4 0v1h2v-1h-2z" style="fill:#f9f9f9"/>
  <path d="m20 19v1h2v-1zm2 1v1h-2v-1h-1v5h1v-3h2v3h1v-5zm2-1v5h1v-5zm1 5v1h1v-1zm1 0h1v-5h-1zm2-5v6h1v-6z" style="fill:#2f5b7b"/>
  <path d="m18.994 27.992v0.0039h-0.0293v0.01563l-3.9707 1.9844 3.9707 1.9824v0.01758h15.469s0.5625-0.32409 0.5625-1.9961c0-1.613-0.62109-2-0.62109-2-5.1188-0.0082-15.379-0.0039-15.379-0.0039z" style="opacity:.1"/>
- <path d="m16.995 28.996-1-1-2 1 1.996 1.016" style="fill:#2d2d2d"/>
+ <path d="m16.995 28.996-1-1-2 1 1.996 1.016" style="fill:#333"/>
  <path d="m17.995 26.996-2 1v2l2 0.996 1-1.996-1-2.004" style="fill:#ffc13d"/>
  <path d="m17.964 26.996h13.773v4h-13.773" style="fill:#ff6f03"/>
  <path d="m30.995 26.996v4h2.438s0.563-0.324 0.563-1.996c0-1.613-0.621-2-0.621-2h-2.375" style="fill:#ff2d5b"/>

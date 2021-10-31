@@ -12,7 +12,7 @@
  <path d="m25 8-3 13h-7v7h-3v-4h1v-4h-3v2h-2v-2h-2v17.922l18 9.077c8.2823-0.0065 15.922-4.4655 20-11.674v-11.326h1v-4h-3v2h-2v-2h-3v8.001h-3v-3.001h1v-4h-7v-7l1-1v-1z" style="opacity:.1"/>
  <rect x="15" y="25" width="18" height="15" style="fill:#4b404a"/>
  <path d="m18 36v10.176a23 23 0 0 0 6 0.824 23 23 0 0 0 6-0.803v-10.197h-12z" style="fill:#715f5f"/>
- <path d="m17 35 1 1h12l1-1h-14z" style="fill-rule:evenodd;fill:#43373f"/>
+ <path d="m17 35 1 1h12l1-1h-14z" style="fill:#43373f"/>
  <path d="m17 31v4h14v-4h-2v2h-2v-2h-2v2h-2v-2h-2v2h-2v-2h-2z" style="fill:#715f5f"/>
  <path d="m11 27v13h4v-11h-1v-2h-1v2h-1v-2h-1z" style="fill:#4e4249"/>
  <path d="m5 24v12.922c0.736 1.095 1.566 2.125 2.479 3.078h3.521v-16" style="fill:#604d4d"/>
@@ -22,9 +22,9 @@
  <path d="m36 19v4h8v-4h-3v2h-2v-2h-3z" style="fill:#604d4d"/>
  <rect x="21" y="13" width="6" height="9" style="fill:#886e68"/>
  <rect x="23" y="15" width="2" height="3" style="fill:#2d2d2d"/>
- <path d="m27 13 1-1h-8l1 1z" style="fill-rule:evenodd;fill:#665252"/>
+ <path d="m27 13 1-1h-8l1 1z" style="fill:#665252"/>
  <rect x="20" y="11" width="8" height="1" style="fill:#483638"/>
- <path d="m20 11 4-4 4 4z" style="fill-rule:evenodd;fill:#a88777"/>
+ <path d="m20 11 4-4 4 4z" style="fill:#a88777"/>
  <rect x="39" y="25" width="2" height="3" style="fill:#2d2d2d"/>
  <rect x="39" y="31" width="2" height="3" style="fill:#2d2d2d"/>
  <rect x="7" y="25" width="2" height="3" style="fill:#2d2d2d"/>

@@ -15,11 +15,11 @@
   <g transform="translate(0 -.004)"></g>
  </g>
  <g transform="matrix(.61538 0 0 .73077 4.2308 2.9586)" style="fill:#de8787"></g>
- <path d="m21 21v17h16v-17z" style="fill-rule:evenodd;opacity:.1"/>
- <path d="m20 20v17h16v-17z" style="fill-rule:evenodd;fill:#e1e1e1"/>
+ <path d="m21 21v17h16v-17z" style="opacity:.1"/>
+ <path d="m20 20v17h16v-17z" style="fill:#e1e1e1"/>
  <path d="m29 21v5h6v-5zm-8 6v1h14v-1zm0 2v1h14v-1zm0 2v1h14v-1zm0 2v1h14v-1zm0 2v1h14v-1z" style="fill:#b4b4b4"/>
- <path d="m13 12v17h16v-17z" style="fill-rule:evenodd;opacity:.1"/>
- <path d="m12 11v17h16v-17z" style="fill-rule:evenodd;fill:#f9f9f9"/>
+ <path d="m13 12v17h16v-17z" style="opacity:.1"/>
+ <path d="m12 11v17h16v-17z" style="fill:#f9f9f9"/>
  <path d="m21 12v5h6v-5zm-5 1v1h4v-1zm0 2v1h4v-1zm-3 3v1h14v-1zm0 2v1h14v-1zm0 2v1h14v-1zm0 2v1h14v-1zm0 2v1h14v-1z" style="fill:#bababa"/>
  <path d="m29.5 35 1.5 1.5 1.75-1.75 1.75 1.75 1.5-1.5-1.75-1.75 1.75-1.75-1.5-1.5z" style="opacity:.1;paint-order:normal"/>
  <path d="m30 29-1.5 1.5 1.75 1.75-1.75 1.75 1.5 1.5 1.75-1.75 1.75 1.75 1.5-1.5-1.75-1.75 1.75-1.75-1.5-1.5-1.75 1.75z" style="fill:#e93333;paint-order:normal"/>
