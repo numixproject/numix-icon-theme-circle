@@ -1,6 +1,6 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="linearGradient840" x1="1" x2="47" gradientUnits="userSpaceOnUse">
+  <linearGradient id="bg" x1="1" x2="47" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#edc55b" offset="0"/>
    <stop style="stop-color:#efcb6d" offset="1"/>
   </linearGradient>
@@ -9,7 +9,7 @@
  <path d="m41.28 8.781c3.712 4.085 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.113 3.854 9.637 6.219 15.719 6.219 12.703 0 23-10.298 23-23 0-6.081-2.364-11.606-6.219-15.719z" style="opacity:.1"/>
  <path d="m31.25 2.375c8.615 3.154 14.75 11.417 14.75 21.13 0 12.426-10.07 22.5-22.5 22.5-9.708 0-17.971-6.135-21.12-14.75a23 23 0 0 0 44.875-7 23 23 0 0 0-16-21.875z" style="opacity:.2"/>
  <g transform="matrix(0,-1,1,0,0,48)" style="fill:#501616">
-  <path d="m24 1c12.703 0 23 10.297 23 23s-10.297 23-23 23-23-10.297-23-23 10.297-23 23-23z" style="fill:url(#linearGradient840)"/>
+  <path d="m24 1c12.703 0 23 10.297 23 23s-10.297 23-23 23-23-10.297-23-23 10.297-23 23-23z" style="fill:url(#bg)"/>
  </g>
  <path d="m18 13 0.007812 23 5.9863-0.005859 0.005859 0.005859h-6l1 1h13v-23l-0.98633-1-0.013672 22.986v0.013672h-2v-0.011719l2-0.001953v-22.986h-13z" style="opacity:.1"/>
  <path d="m40.03 7.531c3.712 4.084 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.178 4.291 10.01 6.969 16.469 6.969 12.703 0 23-10.298 23-23 0-6.462-2.677-12.291-6.969-16.469z" style="opacity:.1"/>
@@ -22,8 +22,8 @@
  <path d="m26 28 1 1v5l-1-1c-1-1-1-4 0-5z" style="fill:#eec763"/>
  <path d="m27 34-1-1c-1-1-4-1-5 0l1 1z" style="fill:#f1cb6e"/>
  <path d="m21 28v5h5v-5z" style="fill:#f2d392"/>
- <ellipse cx="23" cy="31" rx="1" ry="1" style="fill:#eec763;paint-order:stroke fill markers"/>
- <ellipse cx="24.5" cy="29.5" rx=".5" ry=".5" style="fill:#eec763;paint-order:stroke fill markers"/>
+ <ellipse cx="23" cy="31" rx="1" ry="1" style="fill:#eec763"/>
+ <ellipse cx="24.5" cy="29.5" rx=".5" ry=".5" style="fill:#eec763"/>
  <path d="m18 13v12h11v-12h-11zm1 1h9v10h-9v-10z" style="fill:#9d9d9d"/>
  <path d="m23 13v10h-2v3h5v-3h-2v-10z" style="fill:#7a7a7a"/>
 </svg>
