@@ -15,11 +15,11 @@
    <path d="m12 11v26h24v-26z" style="fill-rule:evenodd"/>
   </g>
  </g>
- <path d="m12 30v7h24v-7" style=" fill:#cf4a49"/>
- <path d="m13 32v4h23v-4" style=" fill:#f5f3e3"/>
- <path d="m12 11v20h24v-20" style=" fill:#e55d5c"/>
- <path d="m13 32.996v1h23v-1h-23zm0 2.0039v1h23v-1h-23z" style=" opacity:.18"/>
- <path d="m16 11h-4v26h4v-1h-3v-4h3" style=" fill:#414141"/>
- <path d="m16 31h-4v6h4v-1h-3v-4h3" style=" fill:#343434"/>
- <path d="m24 15-5 13h2.5l1.3457-4h4.3086l1.3457 4h2.5l-5-13zm1 2.7 1.4805 4.3h-2.9609z" style="fill:#343434;paint-order:normal"/>
+ <path d="m12 30v7h24v-7" style="fill:#cf4a49"/>
+ <path d="m13 32v4h23v-4" style="fill:#f5f3e3"/>
+ <path d="m12 11v20h24v-20" style="fill:#e55d5c"/>
+ <path d="m13 32.996v1h23v-1h-23zm0 2.0039v1h23v-1h-23z" style="opacity:.18"/>
+ <path d="m16 11h-4v26h4v-1h-3v-4h3" style="fill:#414141"/>
+ <path d="m16 31h-4v6h4v-1h-3v-4h3" style="fill:#383838"/>
+ <path d="m24 15-5 13h2.5l1.3457-4h4.3086l1.3457 4h2.5l-5-13zm1 2.7 1.4805 4.3h-2.9609z" style="fill:#404040;paint-order:normal"/>
 </svg>

@@ -12,39 +12,39 @@
  <path d="m40.03 7.531c3.712 4.084 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.178 4.291 10.01 6.969 16.469 6.969 12.703 0 23-10.298 23-23 0-6.462-2.677-12.291-6.969-16.469z" style="opacity:.1"/>
  <path d="m35 20-2 2-8-3 2-2z" style="fill:#e6e6e6"/>
  <path d="m13 20 2 2 8-3-2-2z" style="fill:#e6e6e6"/>
- <circle cx="24" cy="19" r="7" style="fill:#ac9393;paint-order:stroke fill markers"/>
+ <circle cx="24" cy="19" r="7" style="fill:#ac9393"/>
  <path d="m18 19s2-3 6-3 6 3 6 3-2 3-6 3-6-3-6-3z" style="fill:#f9f9f9"/>
- <circle cx="24" cy="20" r="2" style="fill:#f64242;paint-order:stroke fill markers"/>
+ <circle cx="24" cy="20" r="2" style="fill:#f64242"/>
  <path d="m14 31s-2-1.7982-2-3c0-1 2-2 2-2l-1-4 1-1 1 1 1 3s7 1 7 2c0 2-1 3-1 3s0.29814-1.4037 0-2c-1-2-6-2-6-2s-3 1-3 2 1 3 1 3z" style="fill:#e6e6e6"/>
- <circle cx="24" cy="20" r="1" style="fill:#2d2d2d;paint-order:stroke fill markers"/>
+ <circle cx="24" cy="20" r="1" style="fill:#2d2d2d"/>
  <path d="m34 31s2-1.7982 2-3c0-1-2-2-2-2l1-4-1-1-1 1-1 3s-7 1-7 2c0 2 1 3 1 3s-0.29814-1.4037 0-2c1-2 6-2 6-2s3 1 3 2-1 3-1 3z" style="fill:#e6e6e6"/>
- <circle cx="34" cy="21" r="2" style="fill:#ccc;paint-order:stroke fill markers"/>
- <rect x="26" y="29" width="8" height="7" ry="1" style="fill:#f9f9f9;paint-order:stroke fill markers"/>
- <rect x="27" y="30" width="6" height="5" ry="1" style="fill:#8dcfe9;paint-order:stroke fill markers"/>
- <circle cx="29" cy="31" r="1" style="fill:#e8e689;paint-order:stroke fill markers"/>
+ <circle cx="34" cy="21" r="2" style="fill:#ccc"/>
+ <rect x="26" y="29" width="8" height="7" ry="1" style="fill:#f9f9f9"/>
+ <rect x="27" y="30" width="6" height="5" ry="1" style="fill:#8dcfe9"/>
+ <circle cx="29" cy="31" r="1" style="fill:#e8e689"/>
  <path d="m32 32-2 2-1-1-1.707 1.707c0.18075 0.18075 0.43003 0.29297 0.70703 0.29297h4c0.554 0 1-0.446 1-1v-1z" style="fill:#32c356"/>
- <circle transform="scale(-1,1)" cx="-14" cy="21" r="2" style="fill:#ccc;paint-order:stroke fill markers"/>
- <rect x="14" y="29" width="8" height="7" ry="1" style="fill:#f9f9f9;paint-order:stroke fill markers"/>
- <rect x="15" y="30" width="6" height="5" ry="1" style="fill:#8dcfe9;paint-order:stroke fill markers"/>
- <circle cx="17" cy="31" r="1" style="fill:#e8e689;paint-order:stroke fill markers"/>
+ <circle transform="scale(-1,1)" cx="-14" cy="21" r="2" style="fill:#ccc"/>
+ <rect x="14" y="29" width="8" height="7" ry="1" style="fill:#f9f9f9"/>
+ <rect x="15" y="30" width="6" height="5" ry="1" style="fill:#8dcfe9"/>
+ <circle cx="17" cy="31" r="1" style="fill:#e8e689"/>
  <path d="m20 32-2 2-1-1-1.707 1.707c0.18075 0.18075 0.43003 0.29297 0.70703 0.29297h4c0.554 0 1-0.446 1-1v-1z" style="fill:#32c356"/>
  <path d="m25 13a7 7 0 0 0-6.9746 6.4902l-2.0469 0.76758a2 2 0 0 0-0.97852-0.25781 2 2 0 0 0-2 2 2 2 0 0 0 1.209 1.834l0.79102 3.166s-2 1-2 2c0 1.2018 2 3 2 3s-1-2-1-3 3-2 3-2 5 0 6 2c0.29814 0.59628 0 2 0 2s1-1 1-3c0-1-7-2-7-2l-0.80078-2.4023a2 2 0 0 0 0.68359-0.92773l1.457-0.54688a7 7 0 0 0 6.6602 4.877 7 7 0 0 0 6.666-4.875l1.4512 0.54492a2 2 0 0 0 0.68359 0.92773l-0.80078 2.4023s-7 1-7 2c0 2 1 3 1 3s-0.29814-1.4037 0-2c1-2 6-2 6-2s3 1 3 2-1 3-1 3 2-1.7982 2-3c0-1-2-2-2-2l0.79102-3.166a2 2 0 0 0 1.209-1.834 2 2 0 0 0-2-2 2 2 0 0 0-0.97852 0.25781l-2.041-0.76562a7 7 0 0 0-6.9805-6.4922zm10 19v-1c0-0.554-0.446-1-1-1h-6c-0.554 0-1 0.446-1 1v5c0 0.554 0.446 1 1 1h6c0.554 0 1-0.446 1-1zm-12-1c0-0.554-0.446-1-1-1h-6c-0.554 0-1 0.446-1 1v5c0 0.554 0.446 1 1 1h6c0.554 0 1-0.446 1-1z" style="opacity:.1"/>
  <path d="m35 20-2 2-8-3 2-2z" style="fill:#e6e6e6"/>
  <path d="m13 20 2 2 8-3-2-2z" style="fill:#e6e6e6"/>
- <circle cx="24" cy="19" r="7" style="fill:#ac9393;paint-order:stroke fill markers"/>
+ <circle cx="24" cy="19" r="7" style="fill:#ac9393"/>
  <path d="m18 19s2-3 6-3 6 3 6 3-2 3-6 3-6-3-6-3z" style="fill:#f9f9f9"/>
- <circle cx="24" cy="20" r="2" style="fill:#f64242;paint-order:stroke fill markers"/>
+ <circle cx="24" cy="20" r="2" style="fill:#f64242"/>
  <path d="m14 31s-2-1.7982-2-3c0-1 2-2 2-2l-1-4 1-1 1 1 1 3s7 1 7 2c0 2-1 3-1 3s0.29814-1.4037 0-2c-1-2-6-2-6-2s-3 1-3 2 1 3 1 3z" style="fill:#e6e6e6"/>
- <circle cx="24" cy="20" r="1" style="fill:#2d2d2d;paint-order:stroke fill markers"/>
+ <circle cx="24" cy="20" r="1" style="fill:#2d2d2d"/>
  <path d="m34 31s2-1.7982 2-3c0-1-2-2-2-2l1-4-1-1-1 1-1 3s-7 1-7 2c0 2 1 3 1 3s-0.29814-1.4037 0-2c1-2 6-2 6-2s3 1 3 2-1 3-1 3z" style="fill:#e6e6e6"/>
- <circle cx="34" cy="21" r="2" style="fill:#ccc;paint-order:stroke fill markers"/>
- <rect x="26" y="29" width="8" height="7" ry="1" style="fill:#f9f9f9;paint-order:stroke fill markers"/>
- <rect x="27" y="30" width="6" height="5" ry="1" style="fill:#8dcfe9;paint-order:stroke fill markers"/>
- <circle cx="29" cy="31" r="1" style="fill:#e8e689;paint-order:stroke fill markers"/>
+ <circle cx="34" cy="21" r="2" style="fill:#ccc"/>
+ <rect x="26" y="29" width="8" height="7" ry="1" style="fill:#f9f9f9"/>
+ <rect x="27" y="30" width="6" height="5" ry="1" style="fill:#8dcfe9"/>
+ <circle cx="29" cy="31" r="1" style="fill:#e8e689"/>
  <path d="m32 32-2 2-1-1-1.707 1.707c0.18075 0.18075 0.43003 0.29297 0.70703 0.29297h4c0.554 0 1-0.446 1-1v-1z" style="fill:#32c356"/>
- <circle transform="scale(-1,1)" cx="-14" cy="21" r="2" style="fill:#ccc;paint-order:stroke fill markers"/>
- <rect x="14" y="29" width="8" height="7" ry="1" style="fill:#f9f9f9;paint-order:stroke fill markers"/>
- <rect x="15" y="30" width="6" height="5" ry="1" style="fill:#8dcfe9;paint-order:stroke fill markers"/>
- <circle cx="17" cy="31" r="1" style="fill:#e8e689;paint-order:stroke fill markers"/>
+ <circle transform="scale(-1,1)" cx="-14" cy="21" r="2" style="fill:#ccc"/>
+ <rect x="14" y="29" width="8" height="7" ry="1" style="fill:#f9f9f9"/>
+ <rect x="15" y="30" width="6" height="5" ry="1" style="fill:#8dcfe9"/>
+ <circle cx="17" cy="31" r="1" style="fill:#e8e689"/>
  <path d="m20 32-2 2-1-1-1.707 1.707c0.18075 0.18075 0.43003 0.29297 0.70703 0.29297h4c0.554 0 1-0.446 1-1v-1z" style="fill:#32c356"/>
 </svg>

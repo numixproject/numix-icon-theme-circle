@@ -11,12 +11,12 @@
  <circle cx="24" cy="24" r="23" style="fill:url(#bg)"/>
  <path d="m16 13a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3zm9 0a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3zm9 0a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3zm-18 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3zm9 0a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3zm9 0a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3zm-18 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3zm9 0a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3zm9 0a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3z" style="opacity:.1;paint-order:normal"/>
  <path d="m40.03 7.531c3.712 4.084 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.178 4.291 10.01 6.969 16.469 6.969 12.703 0 23-10.298 23-23 0-6.462-2.677-12.291-6.969-16.469z" style="opacity:.1"/>
- <circle cx="15" cy="33" r="3" style="fill:#333;paint-order:normal"/>
- <circle cx="24" cy="33" r="3" style="fill:#333;paint-order:normal"/>
+ <circle cx="15" cy="33" r="3" style="fill:#3d3d3d;paint-order:normal"/>
+ <circle cx="24" cy="33" r="3" style="fill:#3d3d3d;paint-order:normal"/>
  <circle cx="33" cy="33" r="3" style="fill:#f9f9f9;paint-order:normal"/>
  <circle cx="15" cy="24" r="3" style="fill:#f9f9f9;paint-order:normal"/>
  <circle cx="24" cy="24" r="3" style="fill:#f9f9f9;paint-order:normal"/>
- <circle cx="33" cy="24" r="3" style="fill:#333;paint-order:normal"/>
+ <circle cx="33" cy="24" r="3" style="fill:#3d3d3d;paint-order:normal"/>
  <circle cx="15" cy="15" r="3" style="fill:#f9f9f9;paint-order:normal"/>
  <circle cx="24" cy="15" r="3" style="fill:#f9f9f9;paint-order:normal"/>
  <circle cx="33" cy="15" r="3" style="fill:#f9f9f9;paint-order:normal"/>

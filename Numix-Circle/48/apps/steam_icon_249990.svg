@@ -12,11 +12,11 @@
  <path d="m25 10-4 3h-5l-2 2h8l3-2 3 2h8l-2-2h-1l-1 1-1-1h-2zm0 7a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm-11 18 2 2h5l4 3 4-3h5l2-2h-8l-3 2-3-2z" style="opacity:.1"/>
  <path d="m24 9-4 3h-5l-2 2h8l3-2 3 2h8l-2-2h-1l-1 1-1-1h-2l-4-3zm0 7a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm-11 18 2 2h5l4 3 4-3h5l2-2h-8l-3 2-3-2h-8z" style="fill:#949494"/>
  <g fill="#fff">
-  <circle cx="25" cy="25" r="6" style="opacity:.1"/>
+  <circle cx="25" cy="25" r="6" style="fill:#000;opacity:.1"/>
   <circle cx="24" cy="24" r="6" style="fill:#619fd6"/>
-  <circle cx="25" cy="25" r="4" style="opacity:.1"/>
+  <circle cx="25" cy="25" r="4" style="fill:#000;opacity:.1"/>
   <circle cx="24" cy="24" r="4" style="fill:#8ebae1"/>
-  <circle cx="25" cy="25" r="2" style="opacity:.1"/>
+  <circle cx="25" cy="25" r="2" style="fill:#000;opacity:.1"/>
   <circle cx="24" cy="24" r="2" style="fill:#c7def0"/>
  </g>
  <path d="m40.03 7.531c3.712 4.084 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.178 4.291 10.01 6.969 16.469 6.969 12.703 0 23-10.298 23-23 0-6.462-2.677-12.291-6.969-16.469z" style="opacity:.1"/>

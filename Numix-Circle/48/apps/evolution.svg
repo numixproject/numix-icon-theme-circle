@@ -18,7 +18,7 @@
  <path d="m14 12v20h20v-20z" style="fill:#f9f9f9"/>
  <path d="m36 18v14.32l-23-0.82031z" style="fill:#cf372d"/>
  <path d="m12 18 24 14.32c0 1.6768-0.012259 1.6797-1.7832 1.6797h-20.445c-1.777 0-1.7715 3.13e-4 -1.7715-1.6797z" style="fill:#ec5145"/>
- <rect x="16" y="14" width="8" height="1" ry=".5" style="fill:#c3cacd;paint-order:normal"/>
- <rect x="16" y="16" width="12" height="1" ry=".5" style="fill:#c3cacd;paint-order:normal"/>
- <rect x="16" y="18" width="16" height="1" ry=".5" style="fill:#c3cacd;paint-order:normal"/>
+ <rect x="16" y="14" width="8" height="1" ry=".5" style="fill:#c3cacd"/>
+ <rect x="16" y="16" width="12" height="1" ry=".5" style="fill:#c3cacd"/>
+ <rect x="16" y="18" width="16" height="1" ry=".5" style="fill:#c3cacd"/>
 </svg>

@@ -19,12 +19,12 @@
  <circle cx="24" cy="20" r="2" style="fill:#fef29f;paint-order:stroke fill markers"/>
  <circle cx="24" cy="20" r="1" style="fill:#fff;paint-order:stroke fill markers"/>
  <circle cx="24" cy="24" r="1" style="fill:#fef29f;paint-order:stroke fill markers"/>
- <rect x="18" y="32" width="2" height="4" ry="1" style="fill:#333;paint-order:stroke fill markers"/>
- <rect x="28" y="32" width="2" height="4" ry="1" style="fill:#333;paint-order:stroke fill markers"/>
+ <rect x="18" y="32" width="2" height="4" ry="1" style="fill:#383838;paint-order:stroke fill markers"/>
+ <rect x="28" y="32" width="2" height="4" ry="1" style="fill:#383838;paint-order:stroke fill markers"/>
  <path d="m16 30 1 4h14l1-4z" style="fill:#808080"/>
  <path d="m15 29 6-1h6l6 1v2h-18z" style="fill:#ccc"/>
- <rect x="23" y="31" width="2" height="2" style="fill:#333;paint-order:stroke fill markers"/>
- <path d="m23 14-5 1v4l5-1v-4zm2 0v4l5 1v-4l-5-1z" style="fill:#333"/>
+ <rect x="23" y="31" width="2" height="2" style="fill:#3d3d3d;paint-order:stroke fill markers"/>
+ <path d="m23 14-5 1v4l5-1v-4zm2 0v4l5 1v-4l-5-1z" style="fill:#3d3d3d"/>
  <path d="m17 22v3h5v-3h-5zm9 0v3h5v-3h-5z" style="fill:#fcb644;paint-order:stroke fill markers"/>
  <path d="m18 23v1h3v-1h-3zm9 0v1h3v-1h-3z" style="fill:#808080;paint-order:stroke fill markers"/>
 </svg>

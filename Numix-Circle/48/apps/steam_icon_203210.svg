@@ -9,11 +9,11 @@
  <path d="m41.28 8.781c3.712 4.085 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.113 3.854 9.637 6.219 15.719 6.219 12.703 0 23-10.298 23-23 0-6.081-2.364-11.606-6.219-15.719z" style="opacity:.1"/>
  <path d="m31.25 2.375c8.615 3.154 14.75 11.417 14.75 21.13 0 12.426-10.07 22.5-22.5 22.5-9.708 0-17.971-6.135-21.12-14.75a23 23 0 0 0 44.875-7 23 23 0 0 0-16-21.875z" style="opacity:.2"/>
  <circle cx="24" cy="24" r="23" style="fill:url(#bg)"/>
- <path d="m19 13v6h-3v7h3v3h12v-3h3v-7h-3v-6h-3v6h-6v-6zm15 6h3v-3h-3zm-3 10v3h3v-3zm3 3v5h3v-5zm-3 0h-3v3h3zm-12-3h-3v3h3zm0 3v3h3v-3zm-3 0h-3v5h3zm0-13v-3h-3v3z" style="opacity:.1;paint-order:stroke fill markers;stroke-width:.86603"/>
+ <path d="m19 13v6h-3v7h3v3h12v-3h3v-7h-3v-6h-3v6h-6v-6zm15 6h3v-3h-3zm-3 10v3h3v-3zm3 3v5h3v-5zm-3 0h-3v3h3zm-12-3h-3v3h3zm0 3v3h3v-3zm-3 0h-3v5h3zm0-13v-3h-3v3z" style="opacity:.1"/>
  <path d="m40.03 7.531c3.712 4.084 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.178 4.291 10.01 6.969 16.469 6.969 12.703 0 23-10.298 23-23 0-6.462-2.677-12.291-6.969-16.469z" style="opacity:.1"/>
- <path d="m18 12v6h-3v7h3v3h12v-3h3v-7h-3v-6h-3v6h-6v-6h-3zm15 6h3v-3h-3v3zm-3 10v3h3v-3h-3zm3 3v5h3v-5h-3zm-3 0h-3v3h3v-3zm-12-3h-3v3h3v-3zm0 3v3h3v-3h-3zm-3 0h-3v5h3v-5zm0-13v-3h-3v3h3z" style="fill:#606060;paint-order:stroke fill markers;stroke-width:.86603"/>
- <rect x="18" y="18" width="12" height="7" style="fill:#2d2d2d;paint-order:stroke fill markers"/>
- <path d="m19 20v2l1 1 1-1v-2l-1-1zm8 0v2l1 1 1-1v-2l-1-1z" style="fill:#e38818;paint-order:stroke fill markers;stroke-width:1.4142"/>
- <path d="m19 22v2h4v-2h-4zm6 0v2h4v-2h-4z" style="fill:#ffe83b;paint-order:stroke fill markers"/>
- <path d="m19 19v1h2v-1h-2zm8 0v1h2v-1h-2z" style="fill:#e31f18;paint-order:stroke fill markers"/>
+ <path d="m18 12v6h-3v7h3v3h12v-3h3v-7h-3v-6h-3v6h-6v-6h-3zm15 6h3v-3h-3v3zm-3 10v3h3v-3h-3zm3 3v5h3v-5h-3zm-3 0h-3v3h3v-3zm-12-3h-3v3h3v-3zm0 3v3h3v-3h-3zm-3 0h-3v5h3v-5zm0-13v-3h-3v3h3z" style="fill:#606060"/>
+ <rect x="18" y="18" width="12" height="7" style="fill:#333"/>
+ <path d="m19 20v2l1 1 1-1v-2l-1-1zm8 0v2l1 1 1-1v-2l-1-1z" style="fill:#e38818"/>
+ <path d="m19 22v2h4v-2h-4zm6 0v2h4v-2h-4z" style="fill:#ffe83b"/>
+ <path d="m19 19v1h2v-1h-2zm8 0v1h2v-1h-2z" style="fill:#e31f18"/>
 </svg>
