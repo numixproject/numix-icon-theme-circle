@@ -15,11 +15,11 @@
    <path d="m12 12v24h24v-24" style="fill-rule:evenodd"/>
   </g>
  </g>
- <path d="m12 12v24h24v-24" style="fill-rule:evenodd;fill:#8e2c7e"/>
- <path d="m13 31v4h23v-4" style="fill-rule:evenodd;fill:#8f9191"/>
- <path d="m12 12v18h24v-18" style="fill-rule:evenodd;fill:#ad3599"/>
- <path d="m13 31.996v1h23v-1h-23zm0 2.0039v1h23v-1h-23z" style="fill-rule:evenodd;fill:#daddde"/>
- <path d="m15 12h-3v24h3v-1h-2v-4h2" style="fill-rule:evenodd;fill:#4a3f3a"/>
- <path d="m15 30h-3v6h3v-1h-2v-4h2" style="fill-rule:evenodd;fill:#383838"/>
+ <path d="m12 12v24h24v-24" style="fill:#8e2c7e"/>
+ <path d="m13 31v4h23v-4" style="fill:#8f9191"/>
+ <path d="m12 12v18h24v-18" style="fill:#ad3599"/>
+ <path d="m13 31.996v1h23v-1h-23zm0 2.0039v1h23v-1h-23z" style="fill:#daddde"/>
+ <path d="m15 12h-3v24h3v-1h-2v-4h2" style="fill:#50443f"/>
+ <path d="m15 30h-3v6h3v-1h-2v-4h2" style="fill:#3d3d3d"/>
  <rect x="17" y="17" width="15" height="3" ry="1" style="fill:#f9f9f9"/>
 </svg>

@@ -13,7 +13,7 @@
  <path d="m40.03 7.531c3.712 4.084 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.178 4.291 10.01 6.969 16.469 6.969 12.703 0 23-10.298 23-23 0-6.462-2.677-12.291-6.969-16.469z" style="opacity:.1"/>
  <path d="m24 28-4 3c0 3.5 0 3.5-2.5 5l6.5 0.5 6.5-0.5c-2.5-1.5-2.5-1.5-2.5-5z" style="fill:#cfd6d6"/>
  <path d="m17 36v1h14v-1z" style="fill:#e5ecec"/>
- <rect x="11" y="13" width="26" height="18" ry="1" style="fill:#383838;paint-order:normal"/>
+ <rect x="11" y="13" width="26" height="18" ry="1" style="fill:#3d3d3d;paint-order:normal"/>
  <path d="m13 15h11l2.391 7-2.391 7h-11z" style="fill:#7885a4;paint-order:normal;stroke-width:.71375"/>
  <rect x="24" y="15" width="11" height="14" style="fill:#b4c4dc;paint-order:normal;stroke-width:.71375"/>
  <path d="m18 21a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 2.2324-1h-1.2324c-1.108 0-2-0.892-2-2s0.892-2 2-2h1.2305a3 3 0 0 0-2.2305-1z" style="fill:#f9f9f9;paint-order:normal"/>

@@ -12,11 +12,10 @@
  <path d="m40.03 7.531c3.712 4.084 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.178 4.291 10.01 6.969 16.469 6.969 12.703 0 23-10.298 23-23 0-6.462-2.677-12.291-6.969-16.469z" style="opacity:.1"/>
  <rect x="12" y="12" width="26" height="26" style="opacity:.1"/>
  <rect x="11" y="11" width="26" height="26" style="fill:#5e5e5e"/>
- <rect x="12.003" y="11.999" width="23.999" height="23.999" style="fill:#eee"/>
- <path d="m17.002 12v5.998h-5v1h5v4.998h-5v1h5v5.0039h-5v0.99805h5v5h1v-5h5v5h0.99805v-5h5.0039v5h0.99805v-5h6v-0.99805h-6v-5.0039h6v-1h-6v-4.998h6v-1h-6v-5.998h-0.99805v5.998h-5.0039v-5.998h-0.99805v5.998h-5v-5.998h-1zm1 6.998h5v4.998h-5v-4.998zm5.998 0h5.0039v4.998h-5.0039v-4.998zm-5.998 5.998h5v5.0039h-5v-5.0039zm5.998 0h5.0039v5.0039h-5.0039v-5.0039z" style="fill:#5e5e5e"/>
- <rect x="24" y="19" width="4.9996" height="4.9996" style="fill:#d71e1e"/>
- <rect x="24" y="12" width="4.9996" height="6" style="fill:#fa884c"/>
- <rect x="30.003" y="25" width="6" height="4.9996" style="fill:#7fde59"/>
- <rect x="18" y="25" width="4.9996" height="4.9996" style="fill:#b9b9b9"/>
- <rect x="12" y="12" width="4.9996" height="6" style="fill:#d7d7d7"/>
+ <path d="m18.002 12v6h5v-6zm12 0v6h5.998v-6zm-18.002 6.998v5.002h5.0039v-5zm6.002 0v5h5v-5zm12 0v5h5.998v-5zm-6.002 6v5h5v-5zm-12 0.001953v5h5.0039v-5zm0 5.998v5.002h5.0039v-5.002zm6.0039 0v5.002h5v-5.002zm5.998 0v5.002h5v-5.002zm5.998 0v5.002h6v-5.002z" style="fill:#eee"/>
+ <rect x="24" y="19" width="5" height="5" style="fill:#dc3838"/>
+ <rect x="24" y="12" width="5" height="6" style="fill:#fa884c"/>
+ <rect x="30" y="25" width="6" height="5" style="fill:#7fde59"/>
+ <rect x="18" y="25" width="5" height="5" style="fill:#b9b9b9"/>
+ <rect x="12" y="12" width="5" height="6" style="fill:#d7d7d7"/>
 </svg>

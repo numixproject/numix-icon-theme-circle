@@ -13,7 +13,7 @@
  <path d="m40.03 7.531c3.712 4.084 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.178 4.291 10.01 6.969 16.469 6.969 12.703 0 23-10.298 23-23 0-6.462-2.677-12.291-6.969-16.469z" style="opacity:.1"/>
  <path d="m24 28-4 3c0 3.5 0 3.5-2.5 5l6.5 0.5 6.5-0.5c-2.5-1.5-2.5-1.5-2.5-5z" style="fill:#cfd6d6"/>
  <path d="m17 36v1h14v-1z" style="fill:#e5ecec"/>
- <rect x="11" y="13" width="26" height="18" ry="1" style="fill:#303030;paint-order:normal"/>
+ <rect x="11" y="13" width="26" height="18" ry="1" style="fill:#3d3d3d;paint-order:normal"/>
  <rect x="13" y="15" width="22" height="14" style="fill:#8be973;paint-order:normal;stroke-width:1.0094"/>
  <path d="m19 17v3h1v-1c0-0.55228 0.44772-1 1-1h2v7c0 0.55228-0.44772 1-1 1h-1v1h6v-1h-1c-0.55228 0-1-0.44772-1-1v-7h2c0.55228 0 1 0.44772 1 1v1h1v-3z" style="fill:#3d3d3d;stroke-linecap:round;stroke-opacity:.73902;stroke-width:2"/>
 </svg>
