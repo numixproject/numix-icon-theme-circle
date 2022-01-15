@@ -12,10 +12,11 @@
   <path d="m24 1c12.703 0 23 10.297 23 23s-10.297 23-23 23-23-10.297-23-23 10.297-23 23-23z" style="fill:url(#bg)"/>
  </g>
  <path d="m40.03 7.531c3.712 4.084 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.178 4.291 10.01 6.969 16.469 6.969 12.703 0 23-10.298 23-23 0-6.462-2.677-12.291-6.969-16.469z" style="opacity:.1"/>
- <path d="m38 12-2 2-2 5-2-2h-1v-3h-6v3h-6v-3h-6v5l-2 1v10h4l-2 1v5h6v-3h6v3h6v-3h1l2-2 2 5 2 2 1-1-2-2v-20l2-2z" style="opacity:.1"/>
- <path d="m12 13v5h2l4-2v-3zm12 0v4h6v-4zm-14 6v10h5v-10zm2 11v5h6v-3l-4-2zm12 1v4h6v-4z" style="fill:#383838"/>
- <path d="m35 35 2 2 1-1-2-2v-20l2-2-1-1-2 2-1 11z" style="fill:#e4e000"/>
+ <path d="m38 12-2 2-2 5-3-3v-2h-6v3h-6v-3h-6v5l-2 1v10h2v6h6v-3h6v3h6v-3h1l2-2 2 5 2 2 1-1-2-2v-20l2-2z" style="opacity:.1"/>
+ <path d="m12 13v5h2l4-2v-3zm12 0v4h6v-4zm-14 6v10h5v-10zm2 11v5h6v-3l-4-2zm12 1v4h6v-4z" style="fill:#3d3d3d"/>
+ <path d="m35 35 2 2 1-1-2-2v-20l2-2-1-1-2 2-1 11z" style="fill:#dada0c"/>
  <path d="m35 13-2 5-2-2h-17v1l1 7-1 7v1h17l2-2 2 5z" style="fill:#fc8855"/>
- <path d="m28 17 4 2v10l-4 2-1-7z" style="fill:#93ddff"/>
- <rect x="14" y="17" width="14" height="14" style="fill:#ff0"/>
+ <path d="m28 17 4 2v10l-4 2-1-7z" style="fill:#95cbe4"/>
+ <rect x="14" y="17" width="14" height="14" style="fill:#dada0c"/>
+ <path d="m15 32v1h3v-1h-3zm9 0v1h6v-1h-6z" style="opacity:.1"/>
 </svg>

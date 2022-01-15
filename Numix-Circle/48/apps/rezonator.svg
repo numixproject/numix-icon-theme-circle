@@ -11,7 +11,7 @@
  <circle cx="24" cy="24" r="23" style="fill:url(#bg)"/>
  <path d="m40.03 7.531c3.712 4.084 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.178 4.291 10.01 6.969 16.469 6.969 12.703 0 23-10.298 23-23 0-6.462-2.677-12.291-6.969-16.469z" style="opacity:.1"/>
  <path d="m13 13v7h3v-7zm5 2v3h11l-3.8613 4.377-2.1387-2.377h-5l4.6641 5.1816-8.6641 9.8184h18v-3h-11l3.8613-4.377 2.1387 2.377h5l-4.6641-5.1816 8.6641-9.8184zm16 15v7h3v-7z" style="opacity:.1;stroke-linecap:round;stroke-opacity:.73902;stroke-width:.047338"/>
- <path d="m12 12v7h3v-7zm21 17v7h3v-7z" style="fill:#3d3d3d;stroke-linecap:round;stroke-opacity:.73902;stroke-width:.047338"/>
+ <path d="m12 12v7h3v-7zm21 17v7h3v-7z" style="fill:#424242;stroke-linecap:round;stroke-opacity:.73902;stroke-width:.047338"/>
  <path d="m17 14v3h11l-15 17h18v-3h-11l15-17z" style="fill:#f63d42;stroke-linecap:round;stroke-opacity:.73902;stroke-width:.07591"/>
  <path d="m24.188 21.32-2.4746 2.8047 2.1973 2.4434 2.4766-2.8066-2.1992-2.4414z" style="opacity:.1;stroke-linecap:round;stroke-opacity:.73902;stroke-width:.07799"/>
  <path d="m17 19h5l9 10h-5z" style="fill:#b5dcf6;stroke-linecap:round;stroke-opacity:.73902;stroke-width:.07799"/>
