@@ -14,5 +14,5 @@
  <circle cx="24" cy="24" r="15" style="fill:#70cfff"/>
  <path d="m19 11v3h1v-3zm6 11h3v3l2-2 2 2v-3h3l-2-2 2-2h-3v-3zm-6-5v3h1v-3zm0 6v3h1v-3zm0 7v2h1v-1h1v-1zm-7 0v1h3v-1zm12 0v1h3v-1zm6 0v1h3v-1zm6 0v1h1.2656c0.17309-0.32727 0.33401-0.66083 0.48242-1h-1.748zm-17 5v3h1v-3z" style="opacity:.1"/>
  <path d="m27 14v3h-3l2 2-2 2h3v3l2-2 2 2v-3h3l-2-2 2-2h-3v-3l-2 2z" style="fill:#f9f9f9"/>
- <path d="m18.617 10a15 15 0 0 0-0.61719 0.25391v2.7461h1v-3h-0.38281zm-0.61719 6v3h1v-3h-1zm0 6v3h1v-3h-1zm0 6v1h-1v1h1v1h1v-1h1v-1h-1v-1h-1zm-7 1v1h3v-1h-3zm12 0v1h3v-1h-3zm6 0v1h3v-1h-3zm6 0v1h2.748a15 15 0 0 0 0.25195-0.61328v-0.38672h-3zm-17 5v3h1v-3h-1z" style="fill:#174159"/>
+ <path d="m18.617 10a15 15 0 0 0-0.61719 0.25391v2.7461h1v-3h-0.38281zm-0.61719 6v3h1v-3h-1zm0 6v3h1v-3h-1zm0 6v1h-1v1h1v1h1v-1h1v-1h-1v-1h-1zm-7 1v1h3v-1h-3zm12 0v1h3v-1h-3zm6 0v1h3v-1h-3zm6 0v1h2.748a15 15 0 0 0 0.25195-0.61328v-0.38672h-3zm-17 5v3h1v-3h-1z" style="fill:#32505d"/>
 </svg>

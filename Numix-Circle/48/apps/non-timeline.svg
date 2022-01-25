@@ -1,8 +1,8 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="linearGradient889" x2="0" y1="47" y2="1" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#303030" offset="0"/>
-   <stop style="stop-color:#3a3a3a" offset="1"/>
+   <stop style="stop-color:#383838" offset="0"/>
+   <stop style="stop-color:#424242" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient940" x2="0" y1="47" y2="1" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#fb8000" offset="0"/>
@@ -22,14 +22,10 @@
    <path d="m11 19c-0.554 0-1 0.446-1 1v7c0 0.554 0.446 1 1 1h1c0.554 0 1-0.446 1-1v-7c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5z" style="fill:#eee;paint-order:normal"/>
    <circle cx="14.5" cy="19.5" r=".5" style="fill:#eee;paint-order:normal"/>
    <path d="m18 19c0.554 0 1 0.446 1 1v7c0 0.554-0.446 1-1 1h-1c-0.554 0-1-0.446-1-1v-7c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5z" style="fill:#eee;paint-order:normal"/>
-  </g>
-  <g style="fill:#eee">
    <path d="m21 19c-0.554 0-1 0.446-1 1v7c0 0.554 0.446 1 1 1h2c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5v-7c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5z" style="fill:#eee;paint-order:normal"/>
    <path d="m28 19c0.554 0 1 0.446 1 1v7c0 0.554-0.446 1-1 1h-2c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5v-7c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5z" style="fill:#eee;paint-order:normal"/>
    <circle cx="24.5" cy="19.5" r=".5" style="fill:#eee;paint-order:normal"/>
    <circle cx="24.5" cy="27.5" r=".5" style="fill:#eee;paint-order:normal"/>
-  </g>
-  <g style="fill:#eee">
    <path d="m31 19c-0.554 0-1 0.446-1 1v7c0 0.554 0.446 1 1 1h1c0.554 0 1-0.446 1-1v-7c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5z" style="fill:#eee;paint-order:normal"/>
    <circle cx="34.5" cy="19.5" r=".5" style="fill:#eee;paint-order:normal"/>
    <path d="m38 19c0.554 0 1 0.446 1 1v7c0 0.554-0.446 1-1 1h-1c-0.554 0-1-0.446-1-1v-7c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5z" style="fill:#eee;paint-order:normal"/>

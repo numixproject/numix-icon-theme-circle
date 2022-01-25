@@ -13,8 +13,6 @@
  <g transform="rotate(180,24.5,25)" style="opacity:.1">
   <path d="m12 12c-0.554 0-1 0.446-1 1v24c0 0.554 0.446 1 1 1h24c0.554 0 1-0.446 1-1v-24c0-0.554-0.446-1-1-1zm1 2h4v4h-4zm6 0h4v4h-4zm6 0h4v4h-4zm6 0h4v4h-4zm-18 18h4v4h-4zm6 0h4v4h-4zm6 0h4v4h-4zm6 0h4v4h-4z"/>
  </g>
- <g transform="rotate(180,24,24.5)">
-  <path d="m12 12c-0.554 0-1 0.446-1 1v24c0 0.554 0.446 1 1 1h24c0.554 0 1-0.446 1-1v-24c0-0.554-0.446-1-1-1zm1 2h4v4h-4zm6 0h4v4h-4zm6 0h4v4h-4zm6 0h4v4h-4zm-18 18h4v4h-4zm6 0h4v4h-4zm6 0h4v4h-4zm6 0h4v4h-4z" style="fill:#f36709"/>
- </g>
- <path d="m37 19h-6v10h6zm-8 0h-10v10h10zm-12 0h-6v10h6z" style="fill-rule:evenodd;fill:#482d1c"/>
+ <path d="m36 37c0.554 0 1-0.446 1-1v-7l-2-5 2-5v-7c0-0.554-0.446-1-1-1h-24c-0.554 0-1 0.446-1 1v7l2 5-2 5v7c0 0.554 0.446 1 1 1zm-1-2h-4v-4h4zm-6 0h-4v-4h4zm-6 0h-4v-4h4zm-6 0h-4v-4h4zm18-18h-4v-4h4zm-6 0h-4v-4h4zm-6 0h-4v-4h4zm-6 0h-4v-4h4z" style="fill:#f36709"/>
+ <path d="m37 19h-6v10h6zm-8 0h-10v10h10zm-12 0h-6v10h6z" style="fill-rule:evenodd;fill:#51392a"/>
 </svg>

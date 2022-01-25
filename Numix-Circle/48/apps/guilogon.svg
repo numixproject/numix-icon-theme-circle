@@ -12,7 +12,7 @@
  <path d="m40.03 7.531c3.712 4.084 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.178 4.291 10.01 6.969 16.469 6.969 12.703 0 23-10.298 23-23 0-6.462-2.677-12.291-6.969-16.469z" style="opacity:.1"/>
  <path d="m13 13v21l3-3v6h21v-17h-10l7-7h-21z" style="fill-opacity:.098"/>
  <path d="m12 12v21l21-21h-21" style="fill:#3a9bfe"/>
- <rect x="15" y="19" width="21" height="17" style="fill:#3d3d3d"/>
+ <rect x="15" y="19" width="21" height="17" style="fill:#424242"/>
  <path d="m16 20v4h19v-4h-19zm0 5v10h6v-10h-6z" style="fill:#ebf3b7"/>
  <path d="m23 25v4h12v-4h-12zm0 5v5h12v-5h-12z" style="fill:#f9f9f9"/>
 </svg>

@@ -13,7 +13,7 @@
  <rect x="13" y="13" width="24" height="24" rx="2" style="opacity:.1"/>
  <rect x="12" y="12" width="24" height="24" rx="2" style="fill:#b3b3b3"/>
  <rect x="15" y="26" width="18" height="6" rx="1" ry="1.2" style="fill:#f9f9f9"/>
- <path d="m19 27a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2zm5 0a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2zm5 0a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2z" style="fill:#3d3d3d"/>
+ <path d="m19 27a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2zm5 0a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2zm5 0a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2z" style="fill:#474747"/>
  <rect x="30" y="14" width="3" height="3" rx="1" style="fill:#787878"/>
  <rect x="31" y="16" width="1" height="6" style="fill:#787878"/>
  <rect x="30" y="21" width="3" height="3" rx="1" style="fill:#787878"/>
