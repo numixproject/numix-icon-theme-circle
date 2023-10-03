@@ -1,8 +1,8 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#293d70" offset="0"/>
-   <stop style="stop-color:#26365e" offset="1"/>
+   <stop style="stop-color:#485270" offset="0"/>
+   <stop style="stop-color:#404963" offset="1"/>
   </linearGradient>
  </defs>
  <path d="m36.3 5c5.86 4.06 9.69 10.8 9.69 18.5 0 12.4-10.1 22.5-22.5 22.5-7.67 0-14.4-3.83-18.5-9.69 1.04 1.82 2.31 3.5 3.78 4.97 4.08 3.71 9.51 5.97 15.5 5.97 12.7 0 23-10.3 23-23 0-5.95-2.26-11.4-5.97-15.5-1.47-1.48-3.15-2.74-4.97-3.78zm4.97 3.78c3.85 4.11 6.22 9.64 6.22 15.7 0 12.7-10.3 23-23 23-6.08 0-11.6-2.36-15.7-6.22 4.16 4.14 9.88 6.72 16.2 6.72 12.7 0 23-10.3 23-23 0-6.34-2.58-12.1-6.72-16.2z" style="opacity:.05"/>
@@ -11,12 +11,12 @@
  <circle cx="24" cy="24" r="23" style="fill:url(#bg)"/>
  <path d="m40 7.53c3.71 4.08 5.97 9.51 5.97 15.5 0 12.7-10.3 23-23 23-5.95 0-11.4-2.26-15.5-5.97 4.18 4.29 10 6.97 16.5 6.97 12.7 0 23-10.3 23-23 0-6.46-2.68-12.3-6.97-16.5z" style="opacity:.1"/>
  <path d="m22 10v6h6v-6zm6 6v6h6v-6zm6 6v6h6v-6zm0 6h-6v6h6zm-6 6h-6v6h6zm-6 0v-6h-6v6zm-6-6v-6h-6v6zm0-6h6v-6h-6z" style="opacity:.1"/>
- <rect x="21" y="9" width="6" height="6" style="fill:#ff004d"/>
- <rect x="15" y="15" width="6" height="6" style="fill:#ffa300"/>
- <rect x="9" y="21" width="6" height="6" style="fill:#ffff27"/>
- <rect x="15" y="27" width="6" height="6" style="fill:#00e756"/>
- <rect x="21" y="33" width="6" height="6" style="fill:#29adff"/>
- <rect x="27" y="27" width="6" height="6" style="fill:#83769c"/>
- <rect x="33" y="21" width="6" height="6" style="fill:#ff77a8"/>
- <rect x="27" y="15" width="6" height="6" style="fill:#fca"/>
+ <rect x="21" y="9" width="6" height="6" style="fill:#f33573"/>
+ <rect x="15" y="15" width="6" height="6" style="fill:#f2a51c"/>
+ <rect x="9" y="21" width="6" height="6" style="fill:#f4f432"/>
+ <rect x="15" y="27" width="6" height="6" style="fill:#0cdb59"/>
+ <rect x="21" y="33" width="6" height="6" style="fill:#2aa7f4"/>
+ <rect x="27" y="27" width="6" height="6" style="fill:#887da1"/>
+ <rect x="33" y="21" width="6" height="6" style="fill:#f87eaa"/>
+ <rect x="27" y="15" width="6" height="6" style="fill:#fbcdae"/>
 </svg>

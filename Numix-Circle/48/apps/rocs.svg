@@ -9,8 +9,8 @@
    <stop style="stop-color:#c3f686" offset="1"/>
   </linearGradient>
   <linearGradient id="bg" x1="1" x2="47" gradientTransform="matrix(0 -1 1 0 -1.5e-6 48)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#3d3d3d" offset="0"/>
-   <stop style="stop-color:#474747" offset="1"/>
+   <stop style="stop-color:#424242" offset="0"/>
+   <stop style="stop-color:#4c4c4c" offset="1"/>
   </linearGradient>
   <radialGradient id="radialGradient4271" cx="-31.5" cy="-27" r="1.5" gradientTransform="translate(48,48)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4339"/>
   <radialGradient id="radialGradient4279" cx="-31.5" cy="21" r="1.5" gradientTransform="translate(48,-48)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4339"/>
