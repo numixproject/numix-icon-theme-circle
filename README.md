@@ -1,6 +1,6 @@
 # Numix Circle
 
-Circle is an icon theme for Linux from the [Numix project](https://numixproject.github.io/). This readme provides information on [installation](https://github.com/numixproject/numix-icon-theme-circle/#installation), [icon requests](https://github.com/numixproject/numix-icon-theme-circle/#icon-requests) and [hardcoded icons](https://github.com/numixproject/numix-icon-theme-circle/#hardcoded-icons). Licensed under the GPL-3.0+
+Circle is an app icon theme for Linux from the [Numix project](https://numixproject.github.io/) intended to be used on top of our [base icon theme](https://github.com/numixproject/numix-icon-theme). This readme provides information on [installation](https://github.com/numixproject/numix-icon-theme-circle/#installation), [icon requests](https://github.com/numixproject/numix-icon-theme-circle/#icon-requests) and [hardcoded icons](https://github.com/numixproject/numix-icon-theme-circle/#hardcoded-icons). Licensed under the GPL-3.0+
 
 ![Circle Screenshot](https://user-images.githubusercontent.com/27789806/35548150-3019d536-0543-11e8-818e-a2fa73a4d6d0.png)
 
