@@ -1,8 +1,8 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#504672" offset="0"/>
-   <stop style="stop-color:#473e65" offset="1"/>
+   <stop style="stop-color:#574c7b" offset="0"/>
+   <stop style="stop-color:#4e446f" offset="1"/>
   </linearGradient>
  </defs>
  <path d="m36.3 5c5.86 4.06 9.69 10.8 9.69 18.5 0 12.4-10.1 22.5-22.5 22.5-7.67 0-14.4-3.83-18.5-9.69 1.04 1.82 2.31 3.5 3.78 4.97 4.08 3.71 9.51 5.97 15.5 5.97 12.7 0 23-10.3 23-23 0-5.95-2.26-11.4-5.97-15.5-1.47-1.48-3.15-2.74-4.97-3.78zm4.97 3.78c3.85 4.11 6.22 9.64 6.22 15.7 0 12.7-10.3 23-23 23-6.08 0-11.6-2.36-15.7-6.22 4.16 4.14 9.88 6.72 16.2 6.72 12.7 0 23-10.3 23-23 0-6.34-2.58-12.1-6.72-16.2z" style="opacity:.05"/>
@@ -11,12 +11,12 @@
  <circle cx="24" cy="24" r="23" style="fill:url(#bg)"/>
  <path d="m40 7.53c3.71 4.08 5.97 9.51 5.97 15.5 0 12.7-10.3 23-23 23-5.95 0-11.4-2.26-15.5-5.97 4.18 4.29 10 6.97 16.5 6.97 12.7 0 23-10.3 23-23 0-6.46-2.68-12.3-6.97-16.5z" style="opacity:.1"/>
  <path d="m13 14v4h2v4h2v4h2v4h2v6h-5a15 15 0 0 0 18 0h-5v-6h2v-4h2v-4h2v-4h2v-4z" style="opacity:.1"/>
- <rect x="20" y="27" width="8" height="9" style="fill:#b3812d"/>
- <rect x="18" y="23" width="12" height="6" style="fill:#bb872f"/>
- <rect x="16" y="19" width="16" height="6" style="fill:#c48c31"/>
- <rect x="14" y="15" width="20" height="6" style="fill:#cd9337"/>
- <rect x="12" y="13" width="24" height="4" style="fill:#d09943"/>
- <path d="m26 32a2 2 0 0 0-4 0v4h4z" style="fill:#474747"/>
+ <rect x="20" y="27" width="8" height="9" style="fill:#c08a30"/>
+ <rect x="18" y="23" width="12" height="6" style="fill:#c89032"/>
+ <rect x="16" y="19" width="16" height="6" style="fill:#cd9437"/>
+ <rect x="14" y="15" width="20" height="6" style="fill:#d09943"/>
+ <rect x="12" y="13" width="24" height="4" style="fill:#d39f50"/>
+ <path d="m26 32a2 2 0 0 0-4 0v4h4z" style="fill:#4d4d4d"/>
  <path d="m14 17v1h20v-1h-20zm2 4v1h16v-1h-16zm2 4v1h12v-1h-12zm2 4v1h8v-1h-8zm3.83 1.01a2 2 0 0 0-1.83 1.99v4h1v-3a2 2 0 0 1 2.82-1.81 2 2 0 0 0-1.99-1.18z" style="opacity:.1"/>
- <path d="m15 35a15 15 0 0 0 18 0z" style="fill:#785e45"/>
+ <path d="m15 35a15 15 0 0 0 18 0z" style="fill:#81644b"/>
 </svg>

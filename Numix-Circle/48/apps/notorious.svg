@@ -11,8 +11,8 @@
  <circle cx="24" cy="24" r="23" style="fill:url(#bg)"/>
  <path d="m40 7.53c3.71 4.08 5.97 9.51 5.97 15.5 0 12.7-10.3 23-23 23-5.95 0-11.4-2.26-15.5-5.97 4.18 4.29 10 6.97 16.5 6.97 12.7 0 23-10.3 23-23 0-6.46-2.68-12.3-6.97-16.5z" style="opacity:.1"/>
  <rect x="15" y="13" width="20" height="24" ry="2" style="opacity:.1"/>
- <path d="m14 18v16c0 1.11 0.892 2 2 2h16c1.11 0 2-0.892 2-2v-16l-10-2z" style="fill:#3d3857"/>
+ <path d="m14 18v16c0 1.11 0.892 2 2 2h16c1.11 0 2-0.892 2-2v-16l-10-2z" style="fill:#484266"/>
  <path d="m16 12h16c1.11 0 2 0.892 2 2v4h-20v-4c0-1.11 0.892-2 2-2z" style="fill:#3584e4"/>
- <path d="m16 19.9v1h8v-1zm0 2.07v1h16v-1zm0 2v1h11v-1zm0 2v1h13v-1zm0 2v1h11v-1z" style="fill:#7b7887"/>
+ <path d="m16 19.9v1h8v-1zm0 2.07v1h16v-1zm0 2v1h11v-1zm0 2v1h13v-1zm0 2v1h11v-1z" style="fill:#888693"/>
  <path d="m16.5 13.5-0.5 0.5 1 1-1 1 0.5 0.5 1.5-1.5z" style="fill:#f9f9f9"/>
 </svg>
