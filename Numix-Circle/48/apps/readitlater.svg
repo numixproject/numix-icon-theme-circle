@@ -14,7 +14,7 @@
  <rect x="14" y="13" width="20" height="22" style="fill:#836349"/>
  <path d="m15 12c-1.108 0-2 0.892-2 2v20c0 1.108 0.892 2 2 2h18c1.108 0 2-0.892 2-2v-20c0-1.108-0.892-2-2-2zm0 2h18v9h-18zm0 11h18v9h-18z" style="fill:#c09774"/>
  <rect x="15" y="16" width="1" height="7" style="fill:#195eb3"/>
- <rect x="31" y="16" width="2" height="7" style="fill:#fff"/>
+ <rect x="31" y="16" width="2" height="7" style="fill:#f9f9f9"/>
  <path d="m31 18v1h2v-1zm0 2v3h2v-3z" style="fill:#ff7800"/>
  <rect x="29" y="14" width="2" height="9" style="fill:#3382e3"/>
  <path d="m29 15v2h2v-2zm0 6v1h2v-1z" style="fill:#195eb3"/>
@@ -32,7 +32,7 @@
  <rect x="16" y="21" width="2" height="2" style="fill:#c54500"/>
  <rect x="15" y="25" width="2" height="9" style="fill:#eb333a"/>
  <path d="m15 26v2h2v-2zm0 6v1h2v-1z" style="fill:#5c5c63"/>
- <rect x="17" y="27" width="2" height="7" style="fill:#fff"/>
+ <rect x="17" y="27" width="2" height="7" style="fill:#f9f9f9"/>
  <path d="m17 29v1h2v-1zm0 2v3h2v-3z" style="fill:#bf61ca"/>
  <rect x="19" y="26" width="3" height="8" style="fill:#3382e3"/>
  <rect x="20" y="27" width="1" height="2" style="fill:#195eb3"/>

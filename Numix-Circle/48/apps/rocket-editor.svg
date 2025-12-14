@@ -16,5 +16,5 @@
  <path d="m20.6 16c-0.369 1.37-0.615 2.89-0.615 4.5v11.5h8v-11.5c0-1.61-0.246-3.13-0.615-4.5z" style="fill:#e3e3e3"/>
  <path d="m25 25-1 2v5h2v-5z" style="opacity:.1"/>
  <path d="m23 26 1-2 1 2v11h-2z" style="fill:#d55"/>
- <path d="m20 24-4 4v1l4-4zm4 0-1 2v3l1-1 1 1v-3zm4 0v1l4 4v-1z" style="fill:#fff;opacity:.1"/>
+ <path d="m20 24-4 4v1l4-4zm4 0-1 2v3l1-1 1 1v-3zm4 0v1l4 4v-1z" style="fill:#f9f9f9;opacity:.1"/>
 </svg>

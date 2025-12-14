@@ -25,6 +25,6 @@
  <path d="m27 12a3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3z" style="fill:#f4d43e"/>
  <path d="m16 21a3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3z" style="fill:#f05b63"/>
  <path d="m38 21a3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3z" style="fill:#33d17a"/>
- <path d="m34 34a3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3z" style="fill:#4d96e5;paint-order:stroke fill markers;stroke-dashoffset:2;stroke-opacity:.712;stroke-width:2.4"/>
+ <path d="m34 34a3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3z" style="fill:#4d96e5;stroke-dashoffset:2;stroke-opacity:.712;stroke-width:2.4"/>
  <path d="m20 34a3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3z" style="fill:#a95dc1"/>
 </svg>

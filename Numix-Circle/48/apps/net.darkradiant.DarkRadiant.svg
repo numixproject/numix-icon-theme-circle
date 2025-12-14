@@ -12,7 +12,7 @@
  <path d="m40 7.53c3.71 4.08 5.97 9.51 5.97 15.5 0 12.7-10.3 23-23 23-5.95 0-11.4-2.26-15.5-5.97 4.18 4.29 10 6.97 16.5 6.97 12.7 0 23-10.3 23-23 0-6.46-2.68-12.3-6.97-16.5z" style="opacity:.1"/>
  <path d="m11 20v1l1 1v2h6v2h-6v2l-1 1v3h8l1.5-1.5 1.5 1.5h6l1.5-1.5 1.5 1.5h8v-3h-1v-3h-6v-2h6v-2h-1v-1h2v-3h-1z" style="opacity:.1"/>
  <path d="m10 17v3h10v-1l-2-2zm20 0-2 2v1h10v-3zm-20 11v3h8l2-2v-1zm18 0v1l2 2h8v-3z" style="fill:#888"/>
- <path d="m11 21v2h26v-2zm0 4v2h26v-2z" style="fill:#833f3f;paint-order:stroke fill markers"/>
+ <path d="m11 21v2h26v-2zm0 4v2h26v-2z" style="fill:#833f3f"/>
  <path d="m18 21v2h14v-1l-1-1zm0 4v2h14v-2zm9 3 2.5 2.5 2.5-2.5z" style="opacity:.1"/>
  <path d="m21 17h6l4 4v6l-4 4h-6l-4-4v-6z" style="fill:#7a5252"/>
 </svg>

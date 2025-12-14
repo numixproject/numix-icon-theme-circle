@@ -1,10 +1,10 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <linearGradient id="linearGradient4237">
+  <linearGradient id="lG4237">
    <stop style="stop-color:#dedede" offset="0"/>
    <stop style="stop-color:#d3d3d3" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient4213">
+  <linearGradient id="lG4213">
    <stop style="stop-color:#bfbfef" offset="0"/>
    <stop style="stop-color:#a6a6ea" offset="1"/>
   </linearGradient>
@@ -12,12 +12,12 @@
    <stop style="stop-color:#4d4d4d" offset="0"/>
    <stop style="stop-color:#424242" offset="1"/>
   </linearGradient>
-  <radialGradient id="radialGradient4219" cx="27" cy="22.8" r="2.5" gradientTransform="translate(-.8)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4213"/>
-  <radialGradient id="radialGradient4227" cx="24.8" cy="26" r="2.5" gradientTransform="translate(-.8)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4213"/>
-  <radialGradient id="radialGradient4235" cx="23" cy="22.5" r="2.5" gradientTransform="translate(-.8)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4213"/>
-  <radialGradient id="radialGradient4243" cx="26.8" cy="25.2" r="2.5" gradientTransform="translate(-.8)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4237"/>
-  <radialGradient id="radialGradient4251" cx="22.8" cy="25" r="2.5" gradientTransform="translate(-.8)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4237"/>
-  <radialGradient id="radialGradient4259" cx="24.8" cy="22" r="2.5" gradientTransform="translate(-.8)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4237"/>
+  <radialGradient id="radialGradient4219" cx="27" cy="22.8" r="2.5" gradientTransform="translate(-.8)" gradientUnits="userSpaceOnUse" xlink:href="#lG4213"/>
+  <radialGradient id="radialGradient4227" cx="24.8" cy="26" r="2.5" gradientTransform="translate(-.8)" gradientUnits="userSpaceOnUse" xlink:href="#lG4213"/>
+  <radialGradient id="radialGradient4235" cx="23" cy="22.5" r="2.5" gradientTransform="translate(-.8)" gradientUnits="userSpaceOnUse" xlink:href="#lG4213"/>
+  <radialGradient id="radialGradient4243" cx="26.8" cy="25.2" r="2.5" gradientTransform="translate(-.8)" gradientUnits="userSpaceOnUse" xlink:href="#lG4237"/>
+  <radialGradient id="radialGradient4251" cx="22.8" cy="25" r="2.5" gradientTransform="translate(-.8)" gradientUnits="userSpaceOnUse" xlink:href="#lG4237"/>
+  <radialGradient id="radialGradient4259" cx="24.8" cy="22" r="2.5" gradientTransform="translate(-.8)" gradientUnits="userSpaceOnUse" xlink:href="#lG4237"/>
  </defs>
  <path d="m36.3 5c5.86 4.06 9.69 10.8 9.69 18.5 0 12.4-10.1 22.5-22.5 22.5-7.67 0-14.4-3.83-18.5-9.69 1.04 1.82 2.31 3.5 3.78 4.97 4.08 3.71 9.51 5.97 15.5 5.97 12.7 0 23-10.3 23-23 0-5.95-2.26-11.4-5.97-15.5-1.47-1.48-3.15-2.74-4.97-3.78zm4.97 3.78c3.85 4.11 6.22 9.64 6.22 15.7 0 12.7-10.3 23-23 23-6.08 0-11.6-2.36-15.7-6.22 4.16 4.14 9.88 6.72 16.2 6.72 12.7 0 23-10.3 23-23 0-6.34-2.58-12.1-6.72-16.2z" style="opacity:.05"/>
  <path d="m41.3 8.78c3.71 4.08 5.97 9.51 5.97 15.5 0 12.7-10.3 23-23 23-5.95 0-11.4-2.26-15.5-5.97 4.11 3.85 9.64 6.22 15.7 6.22 12.7 0 23-10.3 23-23 0-6.08-2.36-11.6-6.22-15.7z" style="opacity:.1"/>

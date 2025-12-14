@@ -20,5 +20,5 @@
  <path d="m28.999 19-2 3v2l1 1v-3l2-3zm6 0v2l-5 5v1l6-6v-2zm-8 8v6l2 2h1l-2-2v-4l6 6h1z" style="fill:#b0b03d"/>
  <path d="m21.999 14 2 3 3-5-3 6z" style="fill:#8c1d1d"/>
  <path d="m21.999 14-1-2h6l-5 1z" style="fill:#e276e2"/>
- <circle cx="23.499" cy="13.5" r=".5" style="fill:#f9f9f9;paint-order:stroke fill markers"/>
+ <circle cx="23.499" cy="13.5" r=".5" style="fill:#f9f9f9"/>
 </svg>

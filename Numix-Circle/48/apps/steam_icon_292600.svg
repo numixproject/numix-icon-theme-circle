@@ -16,7 +16,7 @@
    <stop stop-opacity=".1" offset="0"/>
    <stop stop-opacity="0" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient882" x1="22.6" x2="22.6" y1="11.3" y2="25.5" gradientTransform="matrix(.707 0 0 1.41 -.00245 4e-7)" gradientUnits="userSpaceOnUse" xlink:href="#red"/>
+  <linearGradient id="lG882" x1="22.6" x2="22.6" y1="11.3" y2="25.5" gradientTransform="matrix(.707 0 0 1.41 -.00245 4e-7)" gradientUnits="userSpaceOnUse" xlink:href="#red"/>
   <linearGradient id="red" x1=".5" x2=".5" y1=".25" y2=".85">
    <stop style="stop-color:#ec5d50;stop-opacity:.502" offset="0"/>
    <stop style="stop-color:#ec5546;stop-opacity:0" offset="1"/>
@@ -29,7 +29,7 @@
  <path d="m40 7.53c3.71 4.08 5.97 9.51 5.97 15.5 0 12.7-10.3 23-23 23-5.95 0-11.4-2.26-15.5-5.97 4.18 4.29 10 6.97 16.5 6.97 12.7 0 23-10.3 23-23 0-6.46-2.68-12.3-6.97-16.5z" style="opacity:.1"/>
  <path d="m25 10a15 15 0 0 0 0 30 11 11 0 1 1 0-22 4 4 0 0 0 0-8" fill="url(#red-shadow)" style="fill:url(#red-shadow)"/>
  <path d="m25 40a15 15 0 0 0 0-30 11 11 0 1 1 0 22 4 4 0 0 0 0 8" fill="url(#blue-shadow)" style="fill:url(#blue-shadow)"/>
- <path d="m24 9a15 15 0 0 0 0 30 11 11 0 1 1 0-22" fill="url(#red)" style="fill:url(#linearGradient882)"/>
+ <path d="m24 9a15 15 0 0 0 0 30 11 11 0 1 1 0-22" fill="url(#red)" style="fill:url(#lG882)"/>
  <path d="m24 39a15 15 0 0 0 0-30 11 11 0 1 1 0 22" fill="url(#blue)" style="fill:url(#blue)"/>
  <circle cx="24" cy="13" r="4" style="fill:#ed6559"/>
  <circle cx="24" cy="35" r="4" style="fill:#35afec"/>

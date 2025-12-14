@@ -1,6 +1,6 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="bg" x1="1" x2="47" gradientTransform="matrix(0 -1 1 0 -1.5e-6 48)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="bg" x1="1" x2="47" gradientTransform="matrix(0 -1 1 0 0 48)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#424c56" offset="0"/>
    <stop style="stop-color:#4b5561" offset="1"/>
   </linearGradient>
@@ -46,7 +46,7 @@
  <circle cx="16.5" cy="35.5" r=".5" style="fill:#c8cbb8"/>
  <circle cx="22.5" cy="39.5" r=".5" style="fill:#c8cbb8"/>
  <circle cx="37.5" cy="35.5" r=".5" style="fill:#b0c2ca"/>
- <circle cx="23.995" cy="23.994" r="8" style="fill-rule:evenodd;fill:#9fbecc"/>
+ <circle cx="23.995" cy="23.994" r="8" style="fill:#9fbecc"/>
  <path d="m21.075 18.869a5.901 14.67 59.6 0 0-9.742 12.524 5.901 14.67 59.6 0 0 15.592-2.273 5.901 14.67 59.6 0 0 9.742-12.524 5.901 14.67 59.6 0 0-15.592 2.273zm1.078 1.888a3.261 9.471 59.63 0 1 9.794-1.943 3.261 9.471 59.63 0 1-6.561 7.607 3.261 9.471 59.63 0 1-9.793 1.945 3.261 9.471 59.63 0 1 6.56-7.609z" style="fill:#85a9be"/>
- <path d="m26.068 16.265c-3.979 0.828-5.7588 1.6932-9.7988 5.6582-0.53 1.978-0.30617 4.1573 0.79883 6.0703l13.857-8c-0.552-0.956-1.2726-1.7568-2.1016-2.3828-0.829-0.626-1.7669-1.0807-2.7559-1.3457z" style="fill-rule:evenodd;fill:#9ebecc"/>
+ <path d="m26.068 16.265c-3.979 0.828-5.7588 1.6932-9.7988 5.6582-0.53 1.978-0.30617 4.1573 0.79883 6.0703l13.857-8c-0.552-0.956-1.2726-1.7568-2.1016-2.3828-0.829-0.626-1.7669-1.0807-2.7559-1.3457z" style="fill:#9ebecc"/>
 </svg>

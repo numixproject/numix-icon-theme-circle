@@ -1,6 +1,6 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="bg" x1="1" x2="47" gradientTransform="matrix(0 -1 1 0 -1.5e-6 48)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="bg" x1="1" x2="47" gradientTransform="matrix(0 -1 1 0 0 48)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#d1a9a1" offset="0"/>
    <stop style="stop-color:#d8b5ae" offset="1"/>
   </linearGradient>
@@ -22,7 +22,7 @@
  <path d="m25.938 20.922-0.05862-2.3947 1.668 0.10938 4.7736-4.0859" style="fill:none;stroke-width:.3;stroke:#4c4336"/>
  <path d="m20.629 21.797 2.8634-2.6172" style="stroke-width:.3;stroke:#4c4336"/>
  <path d="m20.567 22.285-2.5632 0.98048-2.9845-2.3438-1.0743-0.16014" style="fill:none;stroke-width:.3;stroke:#4c4336"/>
- <path d="m20.746 21.086-4.1173-2.1762-2.504 0.10938 0.41798-1.8555" style="-inkscape-stroke:none;color:#000000;fill:none;stroke-width:.3"/>
+ <path d="m20.746 21.086-4.1173-2.1762-2.504 0.10938 0.41798-1.8555" style="fill:none;stroke-width:.3"/>
  <path d="m14.396 17.131-0.46094 2.0469 2.6582-0.11719 4.082 2.1582 0.14062-0.26562-4.1543-2.1953-2.3477 0.10352 0.375-1.6641z" style="fill:#4c4336"/>
  <path d="m20 12.808v22.547h1v-22.547z" style="fill:#3d3d3d"/>
  <path d="m28 11.5v24.891h1v-24.891z" style="fill:#3d3d3d"/>

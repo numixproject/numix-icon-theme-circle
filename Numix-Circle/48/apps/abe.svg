@@ -19,5 +19,5 @@
  <path d="m21 28 4 4v3h4v-3l-4-4z" style="fill:#718ada"/>
  <rect x="18" y="22" width="10" height="7" ry="2" style="fill:#ec5151"/>
  <path d="m22.5 22a2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 0.891-0.166l3.61 2.17 5-3-3-3-2 2-2.2-1.46a2.5 2.5 0 0 0-2.3-1.54z" style="fill:#f27777"/>
- <circle cx="24.5" cy="18.5" r=".5" style="fill:#474747"/>
+ <circle cx="24.5" cy="18.5" r=".5" style="fill:#555"/>
 </svg>

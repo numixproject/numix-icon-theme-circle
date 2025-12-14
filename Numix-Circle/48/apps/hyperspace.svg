@@ -15,5 +15,5 @@
  <rect x="11" y="19" width="10" height="10" ry="1" style="fill:#a385c7"/>
  <circle cx="32" cy="16" r="4" style="fill:#ceb9e4"/>
  <circle cx="32" cy="32" r="4" style="fill:#8c5ec0"/>
- <path d="m13 20v8h2v-3h2v3h2v-8h-2v3h-2v-3z" style="fill:#fff"/>
+ <path d="m13 20v8h2v-3h2v3h2v-8h-2v3h-2v-3z" style="fill:#f9f9f9"/>
 </svg>

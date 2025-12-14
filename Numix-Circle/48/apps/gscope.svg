@@ -13,7 +13,7 @@
  <path d="m40 7.53c3.71 4.08 5.97 9.51 5.97 15.5 0 12.7-10.3 23-23 23-5.95 0-11.4-2.26-15.5-5.97 4.18 4.29 10 6.97 16.5 6.97 12.7 0 23-10.3 23-23 0-6.46-2.68-12.3-6.97-16.5z" style="opacity:.1"/>
  <rect x="11" y="13" width="26" height="22" style="fill:#4a7aff"/>
  <path d="m14 14a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm3 0a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm3 0a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1z" style="fill:#bfe1ff"/>
- <rect x="13" y="17" width="22" height="16" style="fill:#fff"/>
+ <rect x="13" y="17" width="22" height="16" style="fill:#f9f9f9"/>
  <rect x="24" y="13" width="13" height="22" style="opacity:.1"/>
  <path d="m27 28 6 6-3 3-6-6z" style="fill:#fe6a16"/>
  <circle cx="21" cy="25" r="7" style="fill:#48525b"/>

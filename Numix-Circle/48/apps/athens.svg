@@ -13,5 +13,5 @@
  <path d="m15 15v20h4v-1h-3v-18h3v-1zm16 0v1h3v18h-3v1h4v-20zm-19 1v18h2v-1h-1v-16h1v-1zm24 0v1h1v16h-1v1h2v-18zm-12 2-4.75 13h-1.25v1h4v-1h-1l1.36-4h4.77l1.36 4h-1.5v1h5v-1h-1l-4.5-13zm.75 2 2.04 6h-4.09z" style="opacity:.1"/>
  <path d="m14 14v20h4v-1h-3v-18h3v-1zm16 0v1h3v18h-3v1h4v-20z" style="fill:#666"/>
  <path d="m11 15v18h2v-1h-1v-16h1v-1zm24 0v1h1v16h-1v1h2v-18z" style="fill:#999"/>
- <path d="m23 17-4.75 13h-1.25v1h4v-1h-1l1.36-4h4.77l1.36 4h-1.5v1h5v-1h-1l-4.5-13zm.75 2 2.04 6h-4.09z" style="fill:#474747"/>
+ <path d="m23 17-4.75 13h-1.25v1h4v-1h-1l1.36-4h4.77l1.36 4h-1.5v1h5v-1h-1l-4.5-13zm.75 2 2.04 6h-4.09z" style="fill:#555"/>
 </svg>

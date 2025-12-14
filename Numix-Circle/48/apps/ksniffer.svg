@@ -22,5 +22,5 @@
  <path d="m32 16v1h1v-1z" style="fill:#ff0"/>
  <path d="m23 16v1h1v-1z" style="fill:#0f0"/>
  <path d="m26 16v1h-1v1h-2v6h1v-5h2v-1h1v-1h3v-1zm6 2v1h1v-1z" style="opacity:.1"/>
- <path d="m28 11a9 9 0 0 0-9 9 9 9 0 0 0 9 9 9 9 0 0 0 9-9 9 9 0 0 0-9-9zm0 2a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7z" style="fill:#f9f9f9;paint-order:stroke fill markers;stroke-linecap:round;stroke-opacity:.57803;stroke-width:2"/>
+ <path d="m28 11a9 9 0 0 0-9 9 9 9 0 0 0 9 9 9 9 0 0 0 9-9 9 9 0 0 0-9-9zm0 2a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7z" style="fill:#f9f9f9;stroke-linecap:round;stroke-opacity:.57803;stroke-width:2"/>
 </svg>

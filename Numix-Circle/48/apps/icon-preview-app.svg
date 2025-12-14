@@ -26,7 +26,7 @@
  <path d="m27 11v11h8v-8l-3-3h-5z" style="fill:#3f70d1"/>
  <path d="m28 13v3h3v-3zm0 4v1h6v-1zm0 2v1h6v-1z" style="fill:#f9f9f9"/>
  <path d="m12.5 12c-0.277 0-0.5 0.223-0.5 0.5v2.5h10v-2.5c0-0.277-0.223-0.5-0.5-0.5z" style="fill:#d1b180"/>
- <path d="m16 13v5h2v-5z" style="fill-opacity:.392;fill:#fff"/>
+ <path d="m16 13v5h2v-5z" style="fill-opacity:.392;fill:#f9f9f9"/>
  <path d="m20.975 25.514c0.9453 1.0604 1.5254 2.4539 1.5254 3.9863 0 3.3138-2.6862 6-6 6-1.5297 0-2.9207-0.57719-3.9805-1.5195 1.099 1.2359 2.6964 2.0195 4.4805 2.0195 3.3138 0 6-2.6862 6-6 0-1.787-0.78589-3.3872-2.0254-4.4863z" style="opacity:.1"/>
  <path d="m32 11v3h2.998l-2.998-3z" style="fill:#8aa8e3"/>
  <path d="m32 14 3 3v-2.9998z" style="fill:#335aa8"/>

@@ -15,6 +15,6 @@
  <path d="m22.3 24.3-7 7 1.41 1.41 7-7z" style="fill:#e6a78b"/>
  <path d="m16 30-5 5 2 2 5-5z" style="fill:#456672"/>
  <path d="m28 12c-4.42 0-8 3.59-8 8 0 4.42 3.58 8 8 8 4.42 0 8-3.58 8-8 0-4.41-3.58-8-8-8z" style="fill:#70caef"/>
- <path d="m28 14v3a3 3 0 0 1 3 3h3a6 6 0 0 0-6-6z" style="fill:#fff;opacity:.6"/>
+ <path d="m28 14v3a3 3 0 0 1 3 3h3a6 6 0 0 0-6-6z" style="fill:#f9f9f9;opacity:.6"/>
  <path d="m28 11a9 9 0 0 0-9 9 9 9 0 0 0 9 9 9 9 0 0 0 9-9 9 9 0 0 0-9-9zm0 2a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7z" style="fill:#f9f9f9"/>
 </svg>

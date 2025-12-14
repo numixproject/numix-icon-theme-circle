@@ -10,7 +10,7 @@
   </rdf:RDF>
  </metadata>
  <defs id="defs4">
-  <linearGradient id="linearGradient3805" gradientUnits="userSpaceOnUse" x2="47" x1="1">
+  <linearGradient id="lG3805" gradientUnits="userSpaceOnUse" x2="47" x1="1">
    <stop id="stop7" style="stop-color:#358570" offset="0"/>
    <stop id="stop9" style="stop-color:#3b937c" offset="1"/>
   </linearGradient>
@@ -20,7 +20,7 @@
   <path id="path15" style="opacity:.1" d="m41.28 8.781c3.712 4.085 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.113 3.854 9.637 6.219 15.719 6.219 12.703 0 23-10.298 23-23 0-6.081-2.364-11.606-6.219-15.719z"/>
   <path id="path17" style="opacity:.2" d="m31.25 2.375c8.615 3.154 14.75 11.417 14.75 21.13 0 12.426-10.07 22.5-22.5 22.5-9.708 0-17.971-6.135-21.12-14.75a23 23 0 0 0 44.875 -7 23 23 0 0 0 -16 -21.875z"/>
  </g>
- <g id="g19" transform="matrix(0,-1,1,0,0,48)" style="fill:url(#linearGradient3805)">
+ <g id="g19" transform="matrix(0,-1,1,0,0,48)" style="fill:url(#lG3805)">
   <path id="path21" d="m24 1c12.703 0 23 10.297 23 23s-10.297 23-23 23-23-10.297-23-23 10.297-23 23-23z"/>
  </g>
  <g id="g23">

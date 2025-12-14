@@ -14,6 +14,6 @@
  <path d="m18 14c-0.554 0-1 0.446-1 1v3c0 0.554 0.446 1 1 1h12c0.554 0 1-0.446 1-1v-3c0-0.554-0.446-1-1-1h-12zm0 15c-0.554 0-1 0.446-1 1v3c0 0.554 0.446 1 1 1h12c0.554 0 1-0.446 1-1v-3c0-0.554-0.446-1-1-1h-12z" style="fill:#4d4d4d"/>
  <path d="m18 12 6-0.5 6 0.5v24l-6 0.5-6-0.5z" style="fill:#f7f45e"/>
  <rect x="22" y="11.5" width="4" height="25" style="fill:#687a8d"/>
- <path d="m20 18-1 1v1l2 2h6l2-2v-1l-1-1zm-1 3v4h2v-2zm10 0-2 2v2h2zm-10 5v4l2-2v-2zm8 0v2l2 2v-4zm-6 3-2 2 1 1h8l1-1-2-2z" style="fill:#525252"/>
+ <path d="m20 18-1 1v1l2 2h6l2-2v-1l-1-1zm-1 3v4h2v-2zm10 0-2 2v2h2zm-10 5v4l2-2v-2zm8 0v2l2 2v-4zm-6 3-2 2 1 1h8l1-1-2-2z" style="fill:#5e5e5e"/>
  <path d="m19 11-1 1h12l-1-1zm-1 25 1 1h10l1-1z" style="fill:#565b61"/>
 </svg>

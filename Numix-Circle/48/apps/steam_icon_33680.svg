@@ -13,15 +13,15 @@
  <path d="m40.03 7.531c3.712 4.084 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.178 4.291 10.01 6.969 16.469 6.969 12.703 0 23-10.298 23-23 0-6.462-2.677-12.291-6.969-16.469z" style="opacity:.1"/>
  <path d="m20 30s-1 1-1 3c0 1 1 2 1 2-3 0-3 2-3 2h6s-1-2-1-3c0-3 1-4 1-4z" style="fill:#f0d448"/>
  <path d="m28 30s1 1 1 3c0 1-1 2-1 2 3 0 3 2 3 2h-6s1-2 1-3c0-3-1-4-1-4z" style="fill:#f0d448"/>
- <path d="m20 30s-1 1-1 3c0 0.32542 0.11689 0.63678 0.25977 0.92773a4 4 0 0 0 0.74023 0.072266 4 4 0 0 0 2.0234-0.55664c0.11716-2.551 0.97656-3.4434 0.97656-3.4434h-3zm5 0s0.51212 0.53158 0.80273 1.9355a6 6 0 0 0 0.63477-0.11719 4 4 0 0 0 2.3633 1.9961c0.11371-0.259 0.19922-0.5332 0.19922-0.81445 0-2-1-3-1-3h-3z" style="opacity:.1;paint-order:stroke fill markers"/>
- <circle cx="24" cy="18" r="6" style="fill:#ec651d;paint-order:stroke fill markers"/>
- <circle cx="17" cy="23" r="6" style="fill:#ec651d;paint-order:stroke fill markers"/>
- <circle cx="31" cy="23" r="6" style="fill:#ec651d;paint-order:stroke fill markers"/>
- <circle cx="19" cy="29" r="4" style="fill:#ec651d;paint-order:stroke fill markers"/>
- <circle cx="29" cy="29" r="4" style="fill:#ec651d;paint-order:stroke fill markers"/>
- <circle cx="24" cy="25" r="6" style="fill:#ec651d;paint-order:stroke fill markers"/>
- <ellipse cx="20.5" cy="24" rx="3.5" ry="4" style="fill:#f9f9f9;paint-order:stroke fill markers"/>
- <ellipse cx="27.5" cy="24" rx="3.5" ry="4" style="fill:#f9f9f9;paint-order:stroke fill markers"/>
- <ellipse cx="27" cy="24.5" rx="1" ry="1.5" style="fill:#124f95;paint-order:stroke fill markers"/>
- <ellipse cx="21" cy="24.5" rx="1" ry="1.5" style="fill:#124f95;paint-order:stroke fill markers"/>
+ <path d="m20 30s-1 1-1 3c0 0.32542 0.11689 0.63678 0.25977 0.92773a4 4 0 0 0 0.74023 0.072266 4 4 0 0 0 2.0234-0.55664c0.11716-2.551 0.97656-3.4434 0.97656-3.4434h-3zm5 0s0.51212 0.53158 0.80273 1.9355a6 6 0 0 0 0.63477-0.11719 4 4 0 0 0 2.3633 1.9961c0.11371-0.259 0.19922-0.5332 0.19922-0.81445 0-2-1-3-1-3h-3z" style="opacity:.1"/>
+ <circle cx="24" cy="18" r="6" style="fill:#ec651d"/>
+ <circle cx="17" cy="23" r="6" style="fill:#ec651d"/>
+ <circle cx="31" cy="23" r="6" style="fill:#ec651d"/>
+ <circle cx="19" cy="29" r="4" style="fill:#ec651d"/>
+ <circle cx="29" cy="29" r="4" style="fill:#ec651d"/>
+ <circle cx="24" cy="25" r="6" style="fill:#ec651d"/>
+ <ellipse cx="20.5" cy="24" rx="3.5" ry="4" style="fill:#f9f9f9"/>
+ <ellipse cx="27.5" cy="24" rx="3.5" ry="4" style="fill:#f9f9f9"/>
+ <ellipse cx="27" cy="24.5" rx="1" ry="1.5" style="fill:#124f95"/>
+ <ellipse cx="21" cy="24.5" rx="1" ry="1.5" style="fill:#124f95"/>
 </svg>

@@ -15,7 +15,7 @@
  <path d="m22 24c-5.54 0-10 4.91-10 11h10l1-6z" style="fill:#c544ab"/>
  <path d="m24 11c-0.683 0-1.35 0.069-2 0.178v23.8h4l10-11v-1c0-6.65-5.35-12-12-12z" style="fill:#5274db"/>
  <circle cx="28.5" cy="17.5" r="1.5" style="opacity:.1"/>
- <circle cx="27.5" cy="16.5" r="1.5" style="fill:#474747"/>
+ <circle cx="27.5" cy="16.5" r="1.5" style="fill:#555"/>
  <path d="m36 24c-5.54 0-10 4.91-10 11h10z" style="fill:#1cc499"/>
  <circle cx="27.5" cy="16.5" r=".5" style="fill:#f9f9f9"/>
 </svg>

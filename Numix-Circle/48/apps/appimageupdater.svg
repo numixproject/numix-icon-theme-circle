@@ -10,11 +10,11 @@
  <path d="m31.25 2.375c8.615 3.154 14.75 11.417 14.75 21.13 0 12.426-10.07 22.5-22.5 22.5-9.708 0-17.971-6.135-21.12-14.75a23 23 0 0 0 44.875-7 23 23 0 0 0-16-21.875z" style="opacity:.2"/>
  <circle cx="24" cy="24" r="23" style="fill:url(#bg)"/>
  <path d="m40.03 7.531c3.712 4.084 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.178 4.291 10.01 6.969 16.469 6.969 12.703 0 23-10.298 23-23 0-6.462-2.677-12.291-6.969-16.469z" style="opacity:.1"/>
- <path d="m15 13-3 3v5h2v16h22v-16h2v-5l-3-3z" style="opacity:.1;paint-order:normal"/>
- <rect x="13" y="17" width="22" height="19" style="fill:#944e2c;paint-order:normal"/>
- <path d="m14 12h20l3 3-13 2-13-2z" style="fill:#92614c;paint-order:normal"/>
- <rect x="11" y="15" width="26" height="5" style="fill:#834c37;paint-order:normal"/>
- <rect x="19" y="22" width="10" height="4" style="fill:#613a23;paint-order:normal"/>
- <rect x="18" y="28" width="12" height="5" style="fill:#d5ceab;paint-order:normal"/>
- <rect x="13" y="20" width="22" height="1" style="opacity:.1;paint-order:normal"/>
+ <path d="m15 13-3 3v5h2v16h22v-16h2v-5l-3-3z" style="opacity:.1"/>
+ <rect x="13" y="17" width="22" height="19" style="fill:#944e2c"/>
+ <path d="m14 12h20l3 3-13 2-13-2z" style="fill:#92614c"/>
+ <rect x="11" y="15" width="26" height="5" style="fill:#834c37"/>
+ <rect x="19" y="22" width="10" height="4" style="fill:#613a23"/>
+ <rect x="18" y="28" width="12" height="5" style="fill:#d5ceab"/>
+ <rect x="13" y="20" width="22" height="1" style="opacity:.1"/>
 </svg>

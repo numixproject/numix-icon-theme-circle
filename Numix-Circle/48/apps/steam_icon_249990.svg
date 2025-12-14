@@ -1,6 +1,6 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="bg" x1="1" x2="47" gradientTransform="matrix(0 -1 1 0 -1.5e-6 48)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="bg" x1="1" x2="47" gradientTransform="matrix(0 -1 1 0 0 48)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#474e51" offset="0"/>
    <stop style="stop-color:#505a5d" offset="1"/>
   </linearGradient>
@@ -11,7 +11,7 @@
  <path d="m24 1c12.703 0 23 10.297 23 23s-10.297 23-23 23-23-10.297-23-23 10.297-23 23-23z" style="fill:url(#bg)"/>
  <path d="m25 10-4 3h-5l-2 2h8l3-2 3 2h8l-2-2h-1l-1 1-1-1h-2zm0 7a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm-11 18 2 2h5l4 3 4-3h5l2-2h-8l-3 2-3-2z" style="opacity:.1"/>
  <path d="m24 9-4 3h-5l-2 2h8l3-2 3 2h8l-2-2h-1l-1 1-1-1h-2l-4-3zm0 7a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm-11 18 2 2h5l4 3 4-3h5l2-2h-8l-3 2-3-2h-8z" style="fill:#949494"/>
- <g fill="#fff">
+ <g fill="#f9f9f9">
   <circle cx="25" cy="25" r="6" style="fill:#000;opacity:.1"/>
   <circle cx="24" cy="24" r="6" style="fill:#619fd6"/>
   <circle cx="25" cy="25" r="4" style="fill:#000;opacity:.1"/>

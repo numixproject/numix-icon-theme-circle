@@ -1,6 +1,6 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="bg" x1="1" x2="47" gradientTransform="matrix(0 -1 1 0 -1.5e-6 48)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="bg" x1="1" x2="47" gradientTransform="matrix(0 -1 1 0 0 48)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#46b0a9" offset="0"/>
    <stop style="stop-color:#51b9b4" offset="1"/>
   </linearGradient>
@@ -11,7 +11,7 @@
  <path d="m24 1c12.7 0 23 10.3 23 23s-10.3 23-23 23-23-10.3-23-23 10.3-23 23-23z" style="fill:url(#bg)"/>
  <path d="m40 7.53c3.71 4.08 5.97 9.51 5.97 15.5 0 12.7-10.3 23-23 23-5.95 0-11.4-2.26-15.5-5.97 4.18 4.29 10 6.97 16.5 6.97 12.7 0 23-10.3 23-23 0-6.46-2.68-12.3-6.97-16.5z" style="opacity:.1"/>
  <path d="m13 18v12h6.16c1.19 1.69 3.13 2.7 5.2 2.7 1.43-0.0022 2.82-0.489 3.94-1.38l3.19 3.18-0.229 0.229 3.27 3.26 1.48-1.48-3.26-3.26-0.215 0.213-3.18-3.18c0.0717-0.095 0.141-0.192 0.207-0.291h7.45v-1h-1v-1h1v-8h-1v-1h1v-1h-24zm7.52 12h7.66c-0.997 1.05-2.38 1.64-3.83 1.65-1.45-6.77e-4 -2.84-0.596-3.83-1.65" style="opacity:.1"/>
- <path d="m12 17v12h24v-1h-1v-1h1v-8h-1v-1h1v-1zm1 1h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm-20 9h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm12 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1z" style="fill:#474747"/>
+ <path d="m12 17v12h24v-1h-1v-1h1v-8h-1v-1h1v-1zm1 1h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm-20 9h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm12 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1z" style="fill:#555"/>
  <path d="m12 20v6h2v-6zm3 0v6h7v-6zm8 0v6h7v-6zm8 0v6h5v-6z" style="fill:#4374b2"/>
  <path transform="translate(0,-1)" d="m18 28v1.09c0.166 0.321 0.36 0.624 0.578 0.908h9.42v-2h-10" style="fill:#d1d1d1"/>
  <path transform="translate(0,-1)" d="m23.4 20.2c-0.485 0-0.954 0.063-1.41 0.17v5.62h-4.67c-5e-3 0.099-0.016 0.197-0.016 0.297 0 1.01 0.248 1.96 0.682 2.8v-1.09h2v2h-1.42c0.691 0.9 1.62 1.6 2.71 2h4.24c2.32-0.861 3.97-3.08 3.97-5.7 0-0.1-0.011-0.198-0.016-0.297h-5.48v-5.76c-0.195-0.019-0.393-0.029-0.594-0.029zm-1.41 7.79h2v2h-2v-2zm4 0h2v2h-2v-2z" style="fill:#2f2f2f"/>

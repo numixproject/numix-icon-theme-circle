@@ -12,7 +12,7 @@
  <path d="m40.03 7.531c3.712 4.084 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.178 4.291 10.01 6.969 16.469 6.969 12.703 0 23-10.298 23-23 0-6.462-2.677-12.291-6.969-16.469z" style="opacity:.1"/>
  <path d="m12 16v19h12l1-1 1 1h12v-19z" style="fill-opacity:.098"/>
  <path d="m11 15h26v19h-12l-1-2-1 2h-12z" style="fill:#f27c0e"/>
- <path d="m23 16h2v18l-1-1-1 1z" style="fill-rule:evenodd;fill:#c2630a"/>
+ <path d="m23 16h2v18l-1-1-1 1z" style="fill:#c2630a"/>
  <path d="m12 15v18h11l1-1 1 1h11v-18z" style="fill:#b2b1a2"/>
  <path d="m12 15v17h24v-17z" style="fill:#c8cdc3"/>
  <path d="m12 14v17h24v-17h-11l-1 2-1-2z" style="fill:#f0f2ee"/>

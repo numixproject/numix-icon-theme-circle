@@ -13,6 +13,6 @@
  <path d="m12 16v18h26v-18z" style="opacity:.1"/>
  <path d="m11 15v18h26v-18h-2l-2 2-1-2h-1l-2 2-1-2h-1l-2 2-1-2h-4l-2 2-1-2h-1l-2 2-1-2h-2z" style="fill:#fafafa"/>
  <path d="m14 15v11h3v-11zm4 0v11h3v-11zm7 0v11h3v-11zm4 0v11h3v-11zm4 0v11h3v-11z" style="color:#000000;opacity:.1"/>
- <path d="m13 15v10h3v-10zm4 0v10h3v-10zm7 0v10h3v-10zm4 0v10h3v-10zm4 0v10h3v-10z" style="color:#000000;fill:#474747"/>
+ <path d="m13 15v10h3v-10zm4 0v10h3v-10zm7 0v10h3v-10zm4 0v10h3v-10zm4 0v10h3v-10z" style="color:#000000;fill:#555"/>
  <path d="m11 32v1h26v-1z" style="opacity:.1"/>
 </svg>

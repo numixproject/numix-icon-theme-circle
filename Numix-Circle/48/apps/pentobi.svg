@@ -1,6 +1,6 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="bg" x1="1" x2="47" gradientTransform="matrix(0 -1 1 0 -1.5e-6 48)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="bg" x1="1" x2="47" gradientTransform="matrix(0 -1 1 0 0 48)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#616161" offset="0"/>
    <stop style="stop-color:#6b6b6b" offset="1"/>
   </linearGradient>
@@ -15,6 +15,6 @@
  <path d="m18 24v6l6 6h12v-6l-6-6z" style="fill:#65a2e7"/>
  <path d="m12 18v18h12v-6h-6v-12z" style="fill:#e2dd5a"/>
  <path d="m36 30v-18h-12v6h6v12z" style="fill:#66e076"/>
- <path d="m12 12v6l1-1v-4h4l1-1zm6 0v6l1-1v-4h4l1-1zm6 0v6l1-1v-4h4l1-1zm6 0v6l1-1v-4h4l1-1zm0 6v6l1-1v-4h4l1-1zm0 0h-6v6l1-1v-4h4zm-6 6v6l1-1v-4h4l1-1zm0 0h-6v6l1-1v-4h4zm-6 6v6l1-1v-4h4l1-1zm0 0h-6v6l1-1v-4h4zm-6 0 1-1v-4h4l1-1h-6zm0-6 1-1v-4h4l1-1h-6zm6-6v6l1-1v-4h4l1-1zm6 12v6l1-1v-4h4l1-1zm6 0 1-1v-4h4l1-1h-6zm0 0v6l1-1v-4h4l1-1z" style="fill:#fff;opacity:.12"/>
+ <path d="m12 12v6l1-1v-4h4l1-1zm6 0v6l1-1v-4h4l1-1zm6 0v6l1-1v-4h4l1-1zm6 0v6l1-1v-4h4l1-1zm0 6v6l1-1v-4h4l1-1zm0 0h-6v6l1-1v-4h4zm-6 6v6l1-1v-4h4l1-1zm0 0h-6v6l1-1v-4h4zm-6 6v6l1-1v-4h4l1-1zm0 0h-6v6l1-1v-4h4zm-6 0 1-1v-4h4l1-1h-6zm0-6 1-1v-4h4l1-1h-6zm6-6v6l1-1v-4h4l1-1zm6 12v6l1-1v-4h4l1-1zm6 0 1-1v-4h4l1-1h-6zm0 0v6l1-1v-4h4l1-1z" style="fill:#f9f9f9;opacity:.12"/>
  <path d="m36 36v-6l-1 1v4h-4l-1 1zm-6 0v-6l-1 1v4h-4l-1 1zm-6 0v-6l-1 1v4h-4l-1 1zm-6 0v-6l-1 1v4h-4l-1 1zm0-6v-6l-1 1v4h-4l-1 1zm0 0h6v-6l-1 1v4h-4zm6-6v-6l-1 1v4h-4l-1 1zm0 0h6v-6l-1 1v4h-4zm6-6v-6l-1 1v4h-4l-1 1zm0 0h6v-6l-1 1v4h-4zm6 0-1 1v4h-4l-1 1h6zm0 6-1 1v4h-4l-1 1h6zm-6 6v-6l-1 1v4h-4l-1 1zm-6-12v-6l-1 1v4h-4l-1 1zm-6 0-1 1v4h-4l-1 1h6zm0 0v-6l-1 1v4h-4l-1 1z" style="opacity:.09"/>
 </svg>

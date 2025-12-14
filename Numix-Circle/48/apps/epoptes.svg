@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="bg" x1="1" x2="47" gradientTransform="matrix(0 -1 1 0 -1.5e-6 48)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="bg" x1="1" x2="47" gradientTransform="matrix(0 -1 1 0 0 48)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#aadb71" offset="0"/>
    <stop style="stop-color:#b4df81" offset="1"/>
   </linearGradient>
@@ -17,7 +17,7 @@
  <path d="m24 11v8l1-0.699zm-9.19 3.81 5.66 5.66 0.213-1.2zm18.4 0-5.66 5.66 1.2 0.213zm-14.9 8.19-7.3 1h8zm10.7 1 0.699 1 7.3-1zm-9.74 3.32-4.46 5.87 5.66-5.66zm8.27 0.213-0.213 1.2 5.87 4.46zm-3.54 1.46-1 0.699 1 7.3z" style="fill:#a35929"/>
  <path d="m30 24c0 3.31-2.69 6-6 6s-6-2.69-6-6 2.69-6 6-6c3.31 0 6 2.69 6 6" style="fill:#4a5247"/>
  <path d="m28 24c0 2.21-1.79 4-4 4s-4-1.79-4-4 1.79-4 4-4 4 1.79 4 4" style="fill:#cba20b"/>
- <circle cx="24" cy="24" r="2" style="fill:#fff;opacity:.25"/>
+ <circle cx="24" cy="24" r="2" style="fill:#f9f9f9;opacity:.25"/>
  <path d="m20.6 11.4 2.07 7.73 0.785-0.934zm6.73 2e-3 -2.07 7.73 1.15-0.416zm-9.87 1.3 4 6.93 0.518-1.11zm13 2e-3 -4 6.93 1.21-0.105zm-17.8 4.76 6.93 4-0.105-1.21zm22.5 0-6.93 4 1.11 0.518zm-23.8 3.13 7.73 2.07-0.416-1.15zm25.1 0-7.73 2.07 0.934 0.785zm-18.3 3.88-6.79 2.86 7.73-2.07zm10.6 0.785 0.416 1.15 7.31 0.924zm-10.3 0.688-5.82 4.52 6.93-4zm9.77 0.518 0.105 1.21 6.82 2.79zm-6.83 1.83-1.21 0.105-2.79 6.82zm5 0-0.518 1.11 4.52 5.82zm-3.79 0.5-1.15 0.416-0.924 7.31zm2.59 0-0.785 0.934 2.86 6.79z" style="fill:#4a5247"/>
- <circle cx="27.5" cy="20.5" r="4.5" style="fill:#fff;opacity:.25"/>
+ <circle cx="27.5" cy="20.5" r="4.5" style="fill:#f9f9f9;opacity:.25"/>
 </svg>

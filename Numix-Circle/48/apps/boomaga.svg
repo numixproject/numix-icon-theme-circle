@@ -1,6 +1,6 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="bg" x1="1" x2="47" gradientTransform="matrix(0 -1 1 0 -1.5e-6 48)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="bg" x1="1" x2="47" gradientTransform="matrix(0 -1 1 0 0 48)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#219ccf" offset="0"/>
    <stop style="stop-color:#27a6dc" offset="1"/>
   </linearGradient>
@@ -22,6 +22,6 @@
  <path d="m15 20h18v2h-18" style="fill:#3e4a5c"/>
  <path d="m16.875 11c-0.492 0-0.875 0.383-0.875 0.875v9.125h16v-7l-3-3h-12.125z" style="fill:#ececde"/>
  <path d="m15.998 29v7.1133c0 0.492 0.39667 0.88672 0.88867 0.88672h14.227c0.492 0 0.88672-0.39472 0.88672-0.88672v-7.1133h-16.002z" style="fill:#ececde"/>
- <path d="m29 11v3h3" style="fill:#fff"/>
+ <path d="m29 11v3h3" style="fill:#f9f9f9"/>
  <path d="m29 14h3v3" style="fill-opacity:.2"/>
 </svg>

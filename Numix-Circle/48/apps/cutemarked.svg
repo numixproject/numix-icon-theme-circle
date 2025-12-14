@@ -1,6 +1,6 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="bg" x1="1" x2="47" gradientTransform="matrix(0 -1 1 0 -1.5e-6 48)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="bg" x1="1" x2="47" gradientTransform="matrix(0 -1 1 0 0 48)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#cb3131" offset="0"/>
    <stop style="stop-color:#d14040" offset="1"/>
   </linearGradient>
@@ -14,6 +14,6 @@
  <path d="m36 31v2c0 1.11-0.892 2-2 2h-20c-1.11 0-2-0.892-2-2v-2z" style="fill:#aeb4c2"/>
  <path d="m36 30v2c0 1.11-0.892 2-2 2h-20c-1.11 0-2-0.892-2-2v-2z" style="fill:#c4cad7"/>
  <rect x="12" y="13" width="24" height="20" rx="2" style="fill:#deece6"/>
- <path d="m14 19v10h3v-6l3 4 3-4v6h3v-10h-3l-3 4-3-4zm15 0v6h-2l3.5 4 3.5-4h-2v-6z" style="fill:#474747"/>
+ <path d="m14 19v10h3v-6l3 4 3-4v6h3v-10h-3l-3 4-3-4zm15 0v6h-2l3.5 4 3.5-4h-2v-6z" style="fill:#555"/>
  <path d="m15 12c-0.554 0-1 0.446-1 1v2c0 0.554 0.446 1 1 1s1-0.446 1-1v-2c0-0.554-0.446-1-1-1zm3 0c-0.554 0-1 0.446-1 1v2c0 0.554 0.446 1 1 1s1-0.446 1-1v-2c0-0.554-0.446-1-1-1zm3 0c-0.554 0-1 0.446-1 1v2c0 0.554 0.446 1 1 1s1-0.446 1-1v-2c0-0.554-0.446-1-1-1zm3 0c-0.554 0-1 0.446-1 1v2c0 0.554 0.446 1 1 1s1-0.446 1-1v-2c0-0.554-0.446-1-1-1zm3 0c-0.554 0-1 0.446-1 1v2c0 0.554 0.446 1 1 1s1-0.446 1-1v-2c0-0.554-0.446-1-1-1zm3 0c-0.554 0-1 0.446-1 1v2c0 0.554 0.446 1 1 1s1-0.446 1-1v-2c0-0.554-0.446-1-1-1zm3 0c-0.554 0-1 0.446-1 1v2c0 0.554 0.446 1 1 1s1-0.446 1-1v-2c0-0.554-0.446-1-1-1z" style="fill:#999"/>
 </svg>

@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
  <defs>
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-   <stop style="stop-color:#1998af;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#1ca6bf;stop-opacity:1"/>
+  <linearGradient id="lG3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,0,48)">
+   <stop style="stop-color:#1998af"/>
+   <stop offset="1" style="stop-color:#1ca6bf"/>
   </linearGradient>
  </defs>
  <g>
@@ -11,7 +11,7 @@
   <path d="m 31.25 2.375 c 8.615 3.154 14.75 11.417 14.75 21.13 c 0 12.426 -10.07 22.5 -22.5 22.5 c -9.708 0 -17.971 -6.135 -21.12 -14.75 a 23 23 0 0 0 44.875 -7 a 23 23 0 0 0 -16 -21.875 z" style="opacity:0.2"/>
  </g>
  <g>
-  <path d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+  <path d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z" style="fill:url(#lG3764)"/>
  </g>
  <g>
   <g>
@@ -19,8 +19,8 @@
     <g style="opacity:0.1">
      <!-- color: #1ca6bf -->
      <g>
-      <path d="m 13 13.992 c 0 -2.617 2 -2.691 2 0 l -0.004 19.01 c 0 0.609 0.223 0.988 0.996 0.988 l 8.02 0 c 2.703 0 2.582 2 0 2 l -10.02 0 c -0.668 0 -1 -0.48 -1 -1 m 0.004 -21.01" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 35 34.01 c 0 2.621 -2 2.688 -2 0 l 0.004 -19.01 c 0 -0.621 -0.227 -1 -1 -1 l -8.02 0 c -2.703 0 -2.578 -2 0 -2 l 10.02 0 c 0.668 0 1 0.492 1 1 m -0.004 21.01" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+      <path d="m 13 13.992 c 0 -2.617 2 -2.691 2 0 l -0.004 19.01 c 0 0.609 0.223 0.988 0.996 0.988 l 8.02 0 c 2.703 0 2.582 2 0 2 l -10.02 0 c -0.668 0 -1 -0.48 -1 -1 m 0.004 -21.01" style="fill:#000"/>
+      <path d="m 35 34.01 c 0 2.621 -2 2.688 -2 0 l 0.004 -19.01 c 0 -0.621 -0.227 -1 -1 -1 l -8.02 0 c -2.703 0 -2.578 -2 0 -2 l 10.02 0 c 0.668 0 1 0.492 1 1 m -0.004 21.01" style="fill:#000"/>
      </g>
     </g>
    </g>
@@ -30,8 +30,8 @@
   <g>
    <!-- color: #1ca6bf -->
    <g>
-    <path d="m 13 13.992 c 0 -2.617 2 -2.691 2 0 l -0.004 19.01 c 0 0.609 0.223 0.988 0.996 0.988 l 8.02 0 c 2.703 0 2.582 2 0 2 l -10.02 0 c -0.668 0 -1 -0.48 -1 -1 m 0.004 -21.01" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 35 34.01 c 0 2.621 -2 2.688 -2 0 l 0.004 -19.01 c 0 -0.621 -0.227 -1 -1 -1 l -8.02 0 c -2.703 0 -2.578 -2 0 -2 l 10.02 0 c 0.668 0 1 0.492 1 1 m -0.004 21.01" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 13 13.992 c 0 -2.617 2 -2.691 2 0 l -0.004 19.01 c 0 0.609 0.223 0.988 0.996 0.988 l 8.02 0 c 2.703 0 2.582 2 0 2 l -10.02 0 c -0.668 0 -1 -0.48 -1 -1 m 0.004 -21.01" style="fill:#f9f9f9"/>
+    <path d="m 35 34.01 c 0 2.621 -2 2.688 -2 0 l 0.004 -19.01 c 0 -0.621 -0.227 -1 -1 -1 l -8.02 0 c -2.703 0 -2.578 -2 0 -2 l 10.02 0 c 0.668 0 1 0.492 1 1 m -0.004 21.01" style="fill:#f9f9f9"/>
    </g>
   </g>
  </g>

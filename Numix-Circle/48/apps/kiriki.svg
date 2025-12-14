@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
  <defs>
-  <linearGradient id="linearGradient3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
-   <stop style="stop-color:#60e6cb;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#71e9d2;stop-opacity:1"/>
+  <linearGradient id="lG3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,0,48)">
+   <stop style="stop-color:#60e6cb"/>
+   <stop offset="1" style="stop-color:#71e9d2"/>
   </linearGradient>
  </defs>
  <g>
@@ -11,7 +11,7 @@
   <path d="m 31.25 2.375 c 8.615 3.154 14.75 11.417 14.75 21.13 c 0 12.426 -10.07 22.5 -22.5 22.5 c -9.708 0 -17.971 -6.135 -21.12 -14.75 a 23 23 0 0 0 44.875 -7 a 23 23 0 0 0 -16 -21.875 z" style="opacity:0.2"/>
  </g>
  <g>
-  <path d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
+  <path d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z" style="fill:url(#lG3764)"/>
  </g>
  <g>
   <path d="m 40.03 7.531 c 3.712 4.084 5.969 9.514 5.969 15.469 0 12.703 -10.297 23 -23 23 c -5.954 0 -11.384 -2.256 -15.469 -5.969 4.178 4.291 10.01 6.969 16.469 6.969 c 12.703 0 23 -10.298 23 -23 0 -6.462 -2.677 -12.291 -6.969 -16.469 z" style="opacity:0.1"/>
@@ -22,10 +22,10 @@
     <g style="opacity:0.1">
      <!-- color: #1ac8ef -->
      <g>
-      <path d="m 15 11.996 17.996 0 c 1.656 0 3 1.344 3 3 l 0 17.996 c 0 1.656 -1.344 3 -3 3 l -17.996 0 c -1.66 0 -3 -1.344 -3 -3 l 0 -17.996 c 0 -1.66 1.344 -3 3 -3 m 0 0" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 27 24 c 0 1.656 -1.344 3 -3 3 -1.66 0 -3 -1.344 -3 -3 0 -1.66 1.34 -3 3 -3 1.656 0 3 1.34 3 3 m 0 0" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 33 18 c 0 1.656 -1.344 3 -3 3 -1.66 0 -3 -1.344 -3 -3 0 -1.66 1.34 -3 3 -3 1.656 0 3 1.34 3 3 m 0 0" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 21 30 c 0 1.656 -1.344 3 -3 3 -1.66 0 -3 -1.344 -3 -3 0 -1.66 1.34 -3 3 -3 1.656 0 3 1.34 3 3 m 0 0" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+      <path d="m 15 11.996 17.996 0 c 1.656 0 3 1.344 3 3 l 0 17.996 c 0 1.656 -1.344 3 -3 3 l -17.996 0 c -1.66 0 -3 -1.344 -3 -3 l 0 -17.996 c 0 -1.66 1.344 -3 3 -3 m 0 0" style="fill:#000"/>
+      <path d="m 27 24 c 0 1.656 -1.344 3 -3 3 -1.66 0 -3 -1.344 -3 -3 0 -1.66 1.34 -3 3 -3 1.656 0 3 1.34 3 3 m 0 0" style="fill:#000"/>
+      <path d="m 33 18 c 0 1.656 -1.344 3 -3 3 -1.66 0 -3 -1.344 -3 -3 0 -1.66 1.34 -3 3 -3 1.656 0 3 1.34 3 3 m 0 0" style="fill:#000"/>
+      <path d="m 21 30 c 0 1.656 -1.344 3 -3 3 -1.66 0 -3 -1.344 -3 -3 0 -1.66 1.34 -3 3 -3 1.656 0 3 1.34 3 3 m 0 0" style="fill:#000"/>
      </g>
     </g>
    </g>
@@ -35,10 +35,10 @@
   <g>
    <!-- color: #1ac8ef -->
    <g>
-    <path d="m 15 11.996 17.996 0 c 1.656 0 3 1.344 3 3 l 0 17.996 c 0 1.656 -1.344 3 -3 3 l -17.996 0 c -1.66 0 -3 -1.344 -3 -3 l 0 -17.996 c 0 -1.66 1.344 -3 3 -3 m 0 0" style="fill:#d13939;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 21 24 c 0 1.656 1.344 3 3 3 1.66 0 3 -1.344 3 -3 0 -1.66 -1.34 -3 -3 -3 -1.656 0 -3 1.34 -3 3 m 0 0" style="fill:#e6e6e6;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 15 18 c 0 1.656 1.344 3 3 3 1.66 0 3 -1.344 3 -3 0 -1.66 -1.34 -3 -3 -3 -1.656 0 -3 1.34 -3 3 m 0 0" style="fill:#e6e6e6;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 27 30 c 0 1.656 1.344 3 3 3 1.66 0 3 -1.344 3 -3 0 -1.66 -1.34 -3 -3 -3 -1.656 0 -3 1.34 -3 3 m 0 0" style="fill:#e6e6e6;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 15 11.996 17.996 0 c 1.656 0 3 1.344 3 3 l 0 17.996 c 0 1.656 -1.344 3 -3 3 l -17.996 0 c -1.66 0 -3 -1.344 -3 -3 l 0 -17.996 c 0 -1.66 1.344 -3 3 -3 m 0 0" style="fill:#d13939"/>
+    <path d="m 21 24 c 0 1.656 1.344 3 3 3 1.66 0 3 -1.344 3 -3 0 -1.66 -1.34 -3 -3 -3 -1.656 0 -3 1.34 -3 3 m 0 0" style="fill:#e6e6e6"/>
+    <path d="m 15 18 c 0 1.656 1.344 3 3 3 1.66 0 3 -1.344 3 -3 0 -1.66 -1.34 -3 -3 -3 -1.656 0 -3 1.34 -3 3 m 0 0" style="fill:#e6e6e6"/>
+    <path d="m 27 30 c 0 1.656 1.344 3 3 3 1.66 0 3 -1.344 3 -3 0 -1.66 -1.34 -3 -3 -3 -1.656 0 -3 1.34 -3 3 m 0 0" style="fill:#e6e6e6"/>
    </g>
   </g>
  </g>
