@@ -11,7 +11,7 @@
  <circle cx="24" cy="24" r="23" style="fill:url(#bg)"/>
  <path d="m40.03 7.531c3.712 4.084 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.178 4.291 10.01 6.969 16.469 6.969 12.703 0 23-10.298 23-23 0-6.462-2.677-12.291-6.969-16.469z" style="opacity:.1"/>
  <path d="m23 11c-3.324 0-6 2.676-6 6v16h3v6h10v-6h3v-16c0-3.324-2.676-6-6-6z" style="opacity:.1;stroke-linejoin:round;stroke-opacity:.54328;stroke-width:2"/>
- <rect x="19" y="31" width="10" height="7" style="fill:#dbdbdb;stroke-linejoin:round;stroke-opacity:.54328;stroke-width:2"/>
+ <rect x="19" y="31" width="10" height="7" style="fill:#ddd;stroke-linejoin:round;stroke-opacity:.54328;stroke-width:2"/>
  <path d="m22 10c-3.324 0-6 2.676-6 6v16h16v-16c0-3.324-2.676-6-6-6z" style="fill:#1de98f;stroke-linejoin:round;stroke-opacity:.54328;stroke-width:.12095"/>
  <path d="m20 35v2h3v-2zm5 0v2h3v-2z" style="fill:#9d9d9d;stroke-linejoin:round;stroke-opacity:.54328;stroke-width:2"/>
  <path d="m21 14c-1.108 0-2 0.892-2 2v11c0 1.108 0.892 2 2 2s2-0.892 2-2v-11c0-1.108-0.892-2-2-2zm6 0c-1.108 0-2 0.892-2 2v11c0 1.108 0.892 2 2 2s2-0.892 2-2v-11c0-1.108-0.892-2-2-2z" style="fill:#0fc17f;stroke-linejoin:round;stroke-opacity:.54328;stroke-width:2"/>

@@ -13,5 +13,5 @@
  <rect transform="rotate(-45)" x="-9.19" y="26.2" width="18.4" height="18.4" style="opacity:.1"/>
  <rect transform="rotate(-45)" x="-9.19" y="24.7" width="18.4" height="18.4" style="fill:#555"/>
  <rect transform="rotate(-45)" x="-7.78" y="26.2" width="15.6" height="15.6" style="fill:#f8e653"/>
- <path d="m24 15-4 4h3v13l1 1 1-1v-9l2 2v5l2-2v-4l-4-4v-1h3z" style="fill:#424242"/>
+ <path d="m24 15-4 4h3v13l1 1 1-1v-9l2 2v5l2-2v-4l-4-4v-1h3z" style="fill:#555"/>
 </svg>

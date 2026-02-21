@@ -26,7 +26,7 @@
  <g id="g23">
   <path id="path25" style="opacity:.1" d="m40.03 7.531c3.712 4.084 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.178 4.291 10.01 6.969 16.469 6.969 12.703 0 23-10.298 23-23 0-6.462-2.677-12.291-6.969-16.469z"/>
  </g>
- <path id="path27" style="fill-opacity:.098" d="m13 13v18h6v6h18v-18h-12v6h-6v-6h6v-6h-12z"/>
+ <path id="path27" style="opacity:.1" d="m13 13v18h6v6h18v-18h-12v6h-6v-6h6v-6h-12z"/>
  <path id="path29" style="fill:#f1f14f" d="m36 24v12h-18v-6l12-6z"/>
  <path id="path31" style="fill:#ea8f36" d="m36 18v6h-6v6h-12v-6h6v-6z"/>
  <path id="path33" style="fill:#e44c4c" d="m24 12v6h-6v12h-6v-18h12z"/>

@@ -21,7 +21,7 @@
  <path d="m14 29 2 7h20v-1l-1-2 1-2v-1" style="fill:#ab7d7d"/>
  <path d="m15 12-1 9 1 9h21v-18" style="fill:#cba4a4"/>
  <path d="m16 12h-4v18l1.5 0.5 2.5-0.5" style="fill:#5c5c5c"/>
- <path d="m16 30h-4v6h4" style="fill:#4f4f4f"/>
+ <path d="m16 30h-4v6h4" style="fill:#555"/>
  <path d="m 13,31 v 3 L 24.5,34.5 36,34 V 31" style="fill:#aaabab"/>
  <path d="m13 31.996v1h23v-1zm0 2.0039v1h23v-1z" style="fill:#daddde"/>
  <path d="m30 17-7 8h7v2h-10v-2l7-8h-7v-2h10z" style="fill:#d3505a"/>

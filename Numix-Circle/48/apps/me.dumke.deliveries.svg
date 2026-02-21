@@ -15,7 +15,7 @@
  <path d="m36 20v15c0 0.554-0.446 1-1 1h-22c-0.554 0-1-0.446-1-1v-15l12-1z" style="fill:#d3d1c5"/>
  <path d="m15 12c-1 0-1 0.461-1.25 1h9.25v5h-10.7l-0.3 1v1h24v-1l-0.2-1h-10.8v-5h9.25c-0.25-0.48-0.25-1-1.25-1z" style="fill:#908265"/>
  <path d="m12 19h24l9e-5 1h-24z" style="opacity:.1"/>
- <path d="m24 22c-2.21 0-4 1.79-4 4 0 3 3.5 8 4 8s4-5 4-8c0-2.21-1.79-4-4-4zm0 2c1.1 0 2 0.895 2 2s-0.895 2-2 2-2-0.895-2-2 0.895-2 2-2z" style="fill:#ee6161;paint-order:stroke fill markers;stroke-dashoffset:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.476;stroke-width:2.29"/>
+ <path d="m24 22c-2.21 0-4 1.79-4 4 0 3 3.5 8 4 8s4-5 4-8c0-2.21-1.79-4-4-4zm0 2c1.1 0 2 0.895 2 2s-0.895 2-2 2-2-0.895-2-2 0.895-2 2-2z" style="fill:#ee6161;paint-order:stroke fill markers;stroke-dashoffset:2;stroke-opacity:.476;stroke-width:2.29"/>
  <path d="m25 23c-2.21 0-4 1.79-4 4 0 3 3.5 8 4 8s4-5 4-8c0-2.21-1.79-4-4-4zm0 2c1.1 0 2 0.895 2 2s-0.895 2-2 2-2-0.895-2-2 0.895-2 2-2z" style="opacity:.1"/>
  <path d="m24 22c-2.21 0-4 1.79-4 4 0 3 3.5 8 4 8s4-5 4-8c0-2.21-1.79-4-4-4zm0 2c1.1 0 2 0.895 2 2s-0.895 2-2 2-2-0.895-2-2 0.895-2 2-2z" style="fill:#ee6161"/>
 </svg>

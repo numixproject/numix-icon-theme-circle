@@ -1,7 +1,7 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#ededed" offset="0"/>
+   <stop style="stop-color:#eee" offset="0"/>
    <stop style="stop-color:#e3e3e3" offset="1"/>
   </linearGradient>
  </defs>
@@ -10,8 +10,8 @@
  <path d="m31.25 2.375c8.615 3.154 14.75 11.417 14.75 21.13 0 12.426-10.07 22.5-22.5 22.5-9.708 0-17.971-6.135-21.12-14.75a23 23 0 0 0 44.875-7 23 23 0 0 0-16-21.875z" style="opacity:.2"/>
  <circle cx="24" cy="24" r="23" style="fill:url(#bg)"/>
  <path d="m40.03 7.531c3.712 4.084 5.969 9.514 5.969 15.469 0 12.703-10.297 23-23 23-5.954 0-11.384-2.256-15.469-5.969 4.178 4.291 10.01 6.969 16.469 6.969 12.703 0 23-10.298 23-23 0-6.462-2.677-12.291-6.969-16.469z" style="opacity:.1"/>
- <path d="m25 10-8 17h7.1172l-6.1172 13 15-17h-7l6-13z" style="opacity:.1;stroke-linecap:round;stroke-linejoin:round;stroke-width:2"/>
- <path d="m24 26h-8l7-10 8-7-6 13z" style="fill:#22a04c;stroke-linecap:round;stroke-linejoin:round;stroke-width:2"/>
- <path d="m25 22h7l-15 17z" style="fill:#095ca5;stroke-linecap:round;stroke-linejoin:round;stroke-width:2"/>
- <path d="m24 9h7l-15 17z" style="fill:#d1242e;stroke-linecap:round;stroke-linejoin:round;stroke-width:2"/>
+ <path d="m25 10-8 17h7.1172l-6.1172 13 15-17h-7l6-13z" style="opacity:.1;stroke-width:2"/>
+ <path d="m24 26h-8l7-10 8-7-6 13z" style="fill:#22a04c;stroke-width:2"/>
+ <path d="m25 22h7l-15 17z" style="fill:#095ca5;stroke-width:2"/>
+ <path d="m24 9h7l-15 17z" style="fill:#d1242e;stroke-width:2"/>
 </svg>

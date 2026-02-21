@@ -2,7 +2,7 @@
  <defs>
   <linearGradient id="lG3764" x1="1" x2="47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,0,48)">
    <stop style="stop-color:#c3c3c3"/>
-   <stop offset="1" style="stop-color:#cdcdcd"/>
+   <stop offset="1" style="stop-color:#ccc"/>
   </linearGradient>
  </defs>
  <g>

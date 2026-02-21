@@ -14,7 +14,7 @@
  <path d="m24 27.5-11-3.5 11-14 11 14z" style="fill:#f3aa4e"/>
  <path d="m24 38-11-14h22z" style="fill:#da7740"/>
  <path d="m24 38-6-14h12z" style="fill:#bc633d"/>
- <path d="m24 10-6 14 6 2 6-2z" style="fill:#ea762e;paint-order:stroke fill markers;stroke-dashoffset:2;stroke-linecap:round;stroke-linejoin:round;stroke-width:.512"/>
+ <path d="m24 10-6 14 6 2 6-2z" style="fill:#ea762e;paint-order:stroke fill markers;stroke-dashoffset:2;stroke-width:.512"/>
  <path d="m24 17-6 7 6 1 6-1z" style="fill:#cb5f25"/>
  <path d="m24 31-6-7h12z" style="fill:#b35328"/>
  <path d="m24 10-11 14h11zm0 14v14l11-14z" style="fill:#fff;opacity:.1"/>

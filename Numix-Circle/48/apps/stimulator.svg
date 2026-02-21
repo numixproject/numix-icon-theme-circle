@@ -14,7 +14,7 @@
  <path d="m25 13-4 23-1 0.5 1 0.5 3 2h2l3-2 1-0.5-1-0.5v-1l1-0.5-1-0.5v-1l1-0.5-1-0.5v-1c0.554 0 1-0.446 1-1 0-4 4-4 4-9 9.16e-4 -4.42-4-8-9-8z" style="opacity:.1"/>
  <path d="m24 12c-5 0-9 3.58-9 8 0 5 4 5 4 9 0 0.554 0.446 1 1 1l4 1 4-1c0.554 0 1-0.446 1-1 0-4 4-4 4-9 9.16e-4 -4.42-4-8-9-8z" style="fill:#e0d49e"/>
  <path d="m20 30v6l1.5 1 2.5 0.5 2.5-0.5 1.5-1v-6z" style="fill:#b2b2b2;stroke-linejoin:round;stroke-opacity:.567;stroke-width:2"/>
- <path d="m21.5 37 1.5 1h2l1.5-1z" style="fill:#545454;stroke-linejoin:round;stroke-opacity:.567;stroke-width:2"/>
+ <path d="m21.5 37 1.5 1h2l1.5-1z" style="fill:#555;stroke-linejoin:round;stroke-opacity:.567;stroke-width:2"/>
  <path d="m20 31-1 0.5 1 0.5h8l1-0.5-1-0.5zm0 2-1 0.5 1 0.5h8l1-0.5-1-0.5zm0 2-1 0.5 1 0.5h8l1-0.5-1-0.5z" style="fill-opacity:.997;fill:#ccc;stroke-linejoin:round;stroke-opacity:.567;stroke-width:2"/>
  <path d="m23 22c0 0.554 0.446 1 1 1h2c0.554 0 1-0.446 1-1v-5c0-0.554-0.446-1-1-1zm0 5c0 0.554 0.446 1 1 1h2c0.554 0 1-0.446 1-1v-1c0-0.554-0.446-1-1-1z" style="opacity:.1"/>
  <path d="m23 15c-0.554 0-1 0.446-1 1v5c0 0.554 0.446 1 1 1h2c0.554 0 1-0.446 1-1v-5c0-0.554-0.446-1-1-1zm0 9c-0.554 0-1 0.446-1 1v1c0 0.554 0.446 1 1 1h2c0.554 0 1-0.446 1-1v-1c0-0.554-0.446-1-1-1z" style="fill:#817774"/>

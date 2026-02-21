@@ -16,7 +16,7 @@
  </g>
  <g transform="matrix(-1,0,0,1,49,1)">
   <path d="m 29,12 0,16 7,0 -1,1 -0.166016,0 L 32,34 22,34 12,29 l -1,0 -1,-1 10,0 0,-1 c 0,-10 9,-15 9,-15 z" style="fill:#000;opacity:0.1"/>
-  <path d="m 10 28 1 1 0.166 0 l 2.834 5 l 10 0 10 -5 1 0 1 -1 z" transform="matrix(-1,0,0,1,47,-1)" style="fill:#545454"/>
+  <path d="m 10 28 1 1 0.166 0 l 2.834 5 l 10 0 10 -5 1 0 1 -1 z" transform="matrix(-1,0,0,1,47,-1)" style="fill:#555"/>
   <path d="m 30 11 0 16 -9 0 0 -1 c 0 -10 9 -15 9 -15 z" style="fill:#f5f5ef"/>
  </g>
 </svg>

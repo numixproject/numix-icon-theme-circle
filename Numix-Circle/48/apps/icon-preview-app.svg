@@ -37,11 +37,11 @@
  <path d="m15.5 27.5c-0.554 0-1 0.45-1 1s0.446 1 1 1h4c0.554 0 1-0.45 1-1s-0.446-1-1-1zm0 4c-0.554 0-1 0.45-1 1s0.446 1 1 1h4c0.554 0 1-0.45 1-1s-0.446-1-1-1z" style="opacity:.1"/>
  <rect x="14" y="31" width="6" height="2" ry="1" style="fill:#eb594d"/>
  <rect transform="scale(-1,1)" x="-20" y="27" width="6" height="2" ry="1" style="fill:#5dba6f"/>
- <rect x="18" y="31.5" width="1.5" height="1" ry=".5" style="fill:#ededed"/>
- <rect x="14.5" y="27.5" width="1.5" height="1" ry=".5" style="fill:#ededed"/>
+ <rect x="18" y="31.5" width="1.5" height="1" ry=".5" style="fill:#eee"/>
+ <rect x="14.5" y="27.5" width="1.5" height="1" ry=".5" style="fill:#eee"/>
  <path d="m29 27.5c-0.554 0-1 0.45-1 1s0.446 1 1 1h4c0.554 0 1-0.45 1-1s-0.446-1-1-1zm0 4c-0.554 0-1 0.45-1 1s0.446 1 1 1h4c0.554 0 1-0.45 1-1s-0.446-1-1-1z" style="opacity:.1"/>
  <rect x="28" y="31" width="6" height="2" ry="1" style="fill:#eb594d"/>
  <rect transform="scale(-1,1)" x="-34" y="27" width="6" height="2" ry="1" style="fill:#5dba6f"/>
- <rect x="32" y="31.5" width="1.5" height="1" ry=".5" style="fill:#ededed"/>
- <rect x="28.5" y="27.5" width="1.5" height="1" ry=".5" style="fill:#ededed"/>
+ <rect x="32" y="31.5" width="1.5" height="1" ry=".5" style="fill:#eee"/>
+ <rect x="28.5" y="27.5" width="1.5" height="1" ry=".5" style="fill:#eee"/>
 </svg>

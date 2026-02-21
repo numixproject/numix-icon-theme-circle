@@ -14,7 +14,7 @@
  <path d="m24 12-6.7324 13.18c0.90149 1.0104 1.7324 2.0023 1.7324 3.8203 0 0.554 0.446 1 1 1l4 1 4-1c0.554 0 1-0.446 1-1 0-1.818 0.83107-2.8099 1.7324-3.8203z" style="fill:#adadf5"/>
  <path d="m24 12v8l6.7324 5.1797c1.0818-1.2127 2.267-2.4522 2.2676-5.1797 9.16e-4 -4.4183-4-8-9-8z" style="fill:#71ea71;stroke-linejoin:round;stroke-opacity:.56715;stroke-width:2"/>
  <path d="m24 12c-5 0-9 3.5817-9 8 0 2.7275 1.1856 3.967 2.2676 5.1797l6.7324-5.1797z" style="fill:#f17e7e;stroke-linejoin:round;stroke-opacity:.56715;stroke-width:2"/>
- <path d="m20 30v6l1.5 1 2.5 0.5 2.5-0.5 1.5-1v-6z" style="fill:#dbdbdb;stroke-linejoin:round;stroke-opacity:.56715;stroke-width:2"/>
+ <path d="m20 30v6l1.5 1 2.5 0.5 2.5-0.5 1.5-1v-6z" style="fill:#ddd;stroke-linejoin:round;stroke-opacity:.56715;stroke-width:2"/>
  <path d="m21.5 37 1.5 1h2l1.5-1z" style="fill:#757575;stroke-linejoin:round;stroke-opacity:.56715;stroke-width:2"/>
  <path d="m20 31-1 0.5 1 0.5h8l1-0.5-1-0.5zm0 2-1 0.5 1 0.5h8l1-0.5-1-0.5zm0 2-1 0.5 1 0.5h8l0.99996-0.5-1-0.5z" style="fill-opacity:.99697;fill:#ebebeb;stroke-linejoin:round;stroke-opacity:.56715;stroke-width:2"/>
 </svg>

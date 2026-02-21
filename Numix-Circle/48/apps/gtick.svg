@@ -5,7 +5,7 @@
    <stop style="stop-color:#ed9847" offset="1"/>
   </linearGradient>
   <linearGradient id="lGt3073" x1="37" x2="14" y1="14" y2="25" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#dcdcdc;stop-opacity:.7" offset="0"/>
+   <stop style="stop-color:#ddd;stop-opacity:.7" offset="0"/>
    <stop style="stop-color:#969696;stop-opacity:0" offset="1"/>
   </linearGradient>
  </defs>

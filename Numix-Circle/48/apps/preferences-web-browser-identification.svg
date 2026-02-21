@@ -14,5 +14,5 @@
  <rect x="10" y="15" width="28" height="18" ry="1" style="fill:#f9f9f9"/>
  <circle cx="32" cy="21" r="4" style="fill:#36aeff"/>
  <rect x="12" y="23" width="13" height="2" style="fill:#36aeff"/>
- <path d="m12 18v2h11v-2zm0 9v4h1v-4zm2 0v4h2v-4zm5 0v4h1v-4zm3 0v4h1v-4zm3 0v4h2v-4zm4 0v4h1v-4zm3 0v4h2v-4zm3 0v4h1v-4z" style="fill:#424242"/>
+ <path d="m12 18v2h11v-2zm0 9v4h1v-4zm2 0v4h2v-4zm5 0v4h1v-4zm3 0v4h1v-4zm3 0v4h2v-4zm4 0v4h1v-4zm3 0v4h2v-4zm3 0v4h1v-4z" style="fill:#555"/>
 </svg>

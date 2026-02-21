@@ -14,7 +14,7 @@
   <path d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z" style="fill:url(#lG3764)"/>
  </g>
  <path d="m 13 12 c -0.554 0 -1 0.446 -1 1 l 0 12 0 12 c 0 0.554 0.446 1 1 1 l 24 0 c 0.554 0 1 -0.446 1 -1 l 0 -12 0 -12 c 0 -0.554 -0.446 -1 -1 -1 l -24 0 z" style="fill:#000;opacity:0.1"/>
- <rect width="26" height="14" x="11" y="23" rx="1" style="fill:#dedede;fill-opacity:0.765"/>
+ <rect width="26" height="14" x="11" y="23" rx="1" style="fill:#ddd;fill-opacity:0.765"/>
  <path d="m 12 11 24 0 c 0.554 0 1 0.446 1 1 l 0 12 -26 0 0 -12 c 0 -0.554 0.446 -1 1 -1 z" style="fill:#5c5c5c"/>
  <g>
   <g>

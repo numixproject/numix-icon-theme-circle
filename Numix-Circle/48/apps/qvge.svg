@@ -17,5 +17,5 @@
  <circle cx="19" cy="34" r="2" style="fill:#f5f5f5"/>
  <circle cx="12" cy="24" r="2" style="fill:#58e48e"/>
  <circle cx="22" cy="14" r="2" style="fill:#8e9bf0"/>
- <path d="m25 13v2h4v-2zm-4 4v4h2v-4zm10 0v14h2v-14zm-16 6v2h4v-2zm10 2.59-1.41 1.41 5.41 5.41 1.41-1.41zm-3 7.41v2h7v-2z" style="fill:#545454"/>
+ <path d="m25 13v2h4v-2zm-4 4v4h2v-4zm10 0v14h2v-14zm-16 6v2h4v-2zm10 2.59-1.41 1.41 5.41 5.41 1.41-1.41zm-3 7.41v2h7v-2z" style="fill:#555"/>
 </svg>
